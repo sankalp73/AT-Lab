@@ -1,0 +1,3088 @@
+<!DOCTYPE html>
+
+<html lang="en-IN" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+
+<script>
+var t_headstart=new Date().getTime();
+
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="https://s1.yimg.com/zz/combo?d/lib/yui/3.4.1/build/cssreset/cssreset-min.css&d/lib/yui/3.4.1/build/cssfonts/cssfonts-min.css&os/mit/media/p/presentation/grids/master-min-a143923.css&os/mit/media/p/presentation/grids/desktop-min-8723999.css&os/mit/media/p/presentation/base/master-min-8723999.css&os/mit/media/p/presentation/base/desktop-min-a143923.css" />
+
+<script type="text/javascript" src="https://s1.yimg.com/zz/combo?yui:3.9.1/build/yui/yui-min.js&os/mit/media/m/base/imageloader-min-649ba6f.js&os/mit/media/m/base/imageloader-bootstrap-min-649ba6f.js&os/mit/media/m/base/viewport-loader-min-649ba6f.js&os/mit/media/p/common/rmp-min-56d3a2e.js&ss/rapid-3.32.js&aj/lh-0.9.js">
+</script>
+
+<script>
+YMedia = YUI({combine: true, comboBase: "https://s1.yimg.com/zz/combo?", root: "yui:" + YUI.version + "/", maxURLLength: "2000", allowRollup: true}).use("anim", "async-queue", "dom-deprecated", "event-custom-base", "event-custom-complex", "event-outside", "event-resize", "event-simulate", "io-base", "json-parse", "node-deprecated", "node-event-simulate", "node-focusmanager", "node-pluginhost", "oop", "overlay", "querystring-stringify", "querystring-stringify-simple", "selector", "selector-native", "substitute", "widget-base", "widget-stack", function (Y) {});</script>
+
+<!-- QF -->
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+
+	<title>
+Finance News | Personal Finance | Market Investing - Yahoo India Finance</title>
+
+	<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="https://s.yimg.com">
+<link rel="dns-prefetch" href="//y3.analytics.yahoo.com">
+<link rel="dns-prefetch" href="//geo.query.yahoo.com">
+<link rel="dns-prefetch" href="//geo.yahoo.com">
+<link rel="dns-prefetch" href="//csc.beap.bc.yahoo.com">
+<link rel="dns-prefetch" href="//b.scorecardresearch.com">
+
+	<!--[if !IE]>
+<!-->
+<link rel="icon" sizes="any" mask href="https://s.yimg.com/os/mit/media/p/common/images/favicon_new-7483e38.svg">
+<meta name="theme-color" content="#400090">
+<!--<![endif]-->
+<!--[if !IE]>
+<!-->
+<link rel="alternate icon" type="image/x-icon" href="/favicon.ico"/>
+<!--<![endif]-->
+
+	<meta name="keywords" lang="en-IN" content="finance, finance news, market stats, currencies, currency converter, personal finance, small business, online trading, yahoo finance, india finance, yahoo india finance"/>
+
+	<meta name="description" lang="en-IN" content="Find latest Finance news headlines from Yahoo India Finance. Market stats, currency converters, personal finance, small business and more only on Yahoo India Finance"/>
+
+	<link rel="canonical" href="https://in.finance.yahoo.com/"/>
+
+	<meta property="fb:app_id" content="90376669494"/>
+
+	<meta property="og:description" content="Find latest Finance news headlines from Yahoo India Finance. Market stats, currency converters, personal finance, small business and more only on Yahoo India Finance"/>
+
+	<meta property="og:image" content="https://s1.yimg.com/bt/api/res/1.2/M7vS95b2fvSzHFeFStPk0A--/YXBwaWQ9eW5ld3NfbGVnbztxPTc1O3c9NjAw/http://l.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
+
+	<meta property="og:site_name" content="Yahoo India Finance"/>
+
+	<meta property="og:title" content="Yahoo India Finance"/>
+
+	<meta property="og:type" content="website"/>
+
+	<meta property="og:url" content="https://in.finance.yahoo.com/"/>
+
+	<meta name="twitter:card" content="summary"/>
+
+	<meta name="twitter:description" content="Find latest Finance news headlines from Yahoo India Finance. Market stats, currency converters, personal finance, small business and more only on Yahoo India Finance"/>
+
+	<meta name="twitter:dnt" content="on"/>
+
+	<meta name="twitter:title" content="Yahoo India Finance"/>
+
+	<meta name="application-name" content="Yahoo India Finance"/>
+
+	<meta name="msapplication-TileColor" content="#6e329d"/>
+
+	<meta name="msapplication-TileImage" content="https://s1.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
+
+	<link rel="apple-touch-icon"  href="https://s1.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-1636137.png">
+
+	<link rel="apple-touch-icon" sizes="114x114" href="https://s1.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-high-1636137.png">
+
+	<link rel="apple-touch-icon" sizes="72x72" href="https://s1.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-tablet-1636137.png">
+
+	<link rel="apple-touch-icon" sizes="144x144" href="https://s1.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-tablet-high-1636137.png">
+
+	<link rel="apple-touch-icon-precomposed" href="https://s1.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-1636137.png">
+
+        
+<link rel="stylesheet" type="text/css" href="https://s1.yimg.com/zz/combo?kx/yucs/uh2/uh/295/css/yunivhead-min.css&kx/yucs/uh2/uh/295/css/logo-min.css&kx/ucs/avatar/css/17/avatar-min.css&kx/yucs/uh2/mail-link/85/css/mailcount_v2-min.css&kx/yucs/uh2/mail-link/85/css/mail_preview-min.css&kx/ucs/search/css/190/search_all-min.css&kx/ucs/search/css/190/search_buttons-min.css&kx/yucs/uh2/uh/295/css/yunivhead_https-min.css&kx/yucs/uh_common/meta/3/css/meta-min.css&os/mit/media/m/header/header-desktop-min-7783740.css&os/mit/media/m/navigation/navigation-desktop-min-a8a04a0.css&os/mit/media/m/ads/ads-min-bcb1fc4.css&os/mit/media/m/linkbox/linkbox-min-248956.css&os/mit/media/m/footer/footer_links-min-66303b2.css&os/mit/media/m/trending/trending-min-1a58da9.css&os/mit/media/m/footer/footer_info-min-66303b2.css&os/mit/media/m/footer/footer_info-desktop-min-43b1bcf.css&os/mit/media/p/finance/site/footer-disclaimer-min-49df19c.css" />
+
+
+<link rel="stylesheet" type="text/css" href="https://s1.yimg.com/zz/combo?os/mit/media/m/finance/portfolios-nav-min-53d9f50.css&os/mit/media/m/quotes/quotes-search-min-c5a4998.css&os/mit/media/m/quotes/quotes-common-min-a978f16.css&os/mit/media/m/quotes/quotes-streaming-min-01dce39.css&os/mit/media/m/quotes/market-time-min-01dce39.css&os/mit/media/m/ads/classickick-min-0a526df.css&os/mit/media/m/quotes/market-summary-min-b0f850b.css&os/mit/media/m/index/breaking_news-min-c7726a5.css&os/mit/media/m/jumbotron/megatron-min-4edc18f.css&os/mit/media/m/jumbotron/megatron-desktop-min-4edc18f.css&os/mit/media/m/carousel/bcarousel-min-29ddc48.css&os/mit/media/m/carousel/bcarousel-desktop-min-29ddc48.css&os/mit/media/m/carousel/carousel-min-29ddc48.css&os/mit/media/m/carousel/bcarousel-mixed-min-f9f77ff.css&os/mit/media/m/election/mosaic-min-48eb7dc.css&os/mit/media/m/list/blist-mixed-desktop-min-b87d915.css&os/mit/media/m/accordion/node-accordion-core-min-153561.css&os/mit/media/m/accordion/modules-min-153561.css&os/mit/media/m/quotes/market-accordion-min-01dce39.css&os/mit/media/m/quotes/recent-quotes-min-c6ff8f0.css&os/mit/media/m/list/blist-mixed-min-b87d915.css&os/mit/media/m/index/index-min-bd9f84c.css&os/mit/media/m/markup/iframe-min-158395.css&os/mit/media/m/sharing/sharing-min-bb31164.css" />
+
+
+<link rel="stylesheet" type="text/css" href="https://s1.yimg.com/zz/combo?os/mit/media/themes/base/base-min-d6db390.css&os/mit/media/themes/base/base-imagery-min-d6db390.css&os/mit/media/themes/teal114b60/theme-min-ca8ef76.css&os/mit/media/themes/teal114b60/theme-imagery-min-e1a2a98.css&os/mit/media/p/finance/site/finance-min-9d4c277.css" />
+
+<style type="text/css">
+.ugcpl-title {color: #222222 !important;} .ugcpl-qstn-simple-txt {color: #222222 !important;}</style>
+
+
+<script>
+if (!window.YAHOO) { window.YAHOO = {}; } if (!YAHOO.Media) { YAHOO.Media = {}; } if (!YAHOO.widget) { YAHOO.widget = {}; }</script>
+
+<script>
+if (!window.YMedia) { var YMedia = YUI(); YMedia.includes = []; YMedia.module_includes = []; }</script>
+
+
+                <script>
+window.YMEDIA_REQ_ATTR = { instr:{request_id:"6r56li1bhjdtr",authfb:0}, device: { os: '', osver: '' } };</script>
+
+            
+
+        <script language="javascript">
+
+        
+YUI.YUICfg = {"gallery":"yui:gallery-2011.04.20-13-04","groups":{"group0d9d821fd95f957944c70b69b28ef8dd5":{"base":"https:\/\/s.yimg.com\/","comboBase":"https:\/\/s.yimg.com\/zz\/combo?","modules":{"media-imageloader":{"path":"os\/mit\/media\/m\/base\/imageloader-min-649ba6f.js"},"media-imageloader-bootstrap":{"path":"os\/mit\/media\/m\/base\/imageloader-bootstrap-min-649ba6f.js"},"media-navigation-desktop":{"path":"os\/mit\/media\/m\/navigation\/navigation-desktop-min-a8a04a0.js"},"media-iframe":{"path":"os\/mit\/media\/m\/markup\/iframe-min-274866.js"}},"combine":true,"filter":"min","root":"\/"}},"combine":true,"allowRollup":true,"comboBase":"https:\/\/s.yimg.com\/zz\/combo?","maxURLLength":"2000"}
+YUI.YUICfg.root='yui:'+YUI.version+'/build/';
+YMedia.applyConfig(YUI.YUICfg);
+YUI.Env[YUI.version].base = 'https://s.yimg.com/';
+YUI.Env[YUI.version].comboBase = 'https://s.yimg.com/zz/combo?';
+YUI.Env[YUI.version].root = 'yui:'+YUI.version+'/build/';
+YMedia.use("media-rmp","media-viewport-loader","dom-deprecated","node-deprecated","substitute","media-imageloader","media-imageloader-bootstrap","base-base","node-style","node-screen","event-custom","media-navigation-desktop","node-base","event-delegate","event-key","json","media-iframe","node",function(Y){
+          
+    Y.later(10, this, function() {Y.applyConfig({debug: false});});
+    Y.later(10, this, function() {
+                YUI.namespace("Media").LANGDIR='ltr';
+                YUI.namespace("Media").CONTENT_ID = "3cf679bb-0960-3e0c-ae8e-e2dcefe694c1";
+                });
+    Y.later(10, this, function() {Y.namespace("Global.Media").ILBoot = new Y.ImageLoaderBootstrap(200);});
+    Y.later(10, this, function() {if(Y.Media.Navigations&&Y.Media.Navigation)Y.Media.Navigations.push(Y.Media.Navigation(Y,{navSelector:"#navigation",device:"full",deviceOS:"",isTransitionAllowed:1,projectId:"0",enableYwaTracking:""}));});
+    Y.later(10, this, function() {Y.namespace("Media").foldGroup.addTrigger('.yom-nav .nav-stack[class^=nav-] >
+ ul >
+ li', 'mouseover');});
+    Y.later(10, this, function() {Y.on("domready", function() { Y.Global.Media.IFrameMgr.add({"id":"mediasocialfollowfb-ifr","src":"https:\/\/www.facebook.com\/plugins\/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fyahooindia&layout=button_count&show_faces=0&width=90&height=24&locale=en_US","width":"90px","height":"24px","scrolling":"no"}); });});
+    Y.later(10, this, function() {YUI.namespace("Media").ads_supp_ugc="";});
+    Y.later(10, this, function() {var darla_version_0_4_0 = "0",
+                            darlaVersion = "2-9-9", darla_version = 1,
+                            darla_type = "2";
+                        if (darla_version_0_4_0 == '1') {
+                            darla_version = darlaVersion && 0 === darlaVersion.indexOf('2') ? 2 : 1;
+                        }else{
+                            darla_version = darla_type;
+                        }
+                        if (darla_version >
+= 2) {
+                            LIGHTBOX_DARLA_CONFIG = {"useYAC":0,"usePE":0,"servicePath":"https:\/\/in.finance.yahoo.com\/__darla\/php\/fc.php","xservicePath":"","beaconPath":"https:\/\/in.finance.yahoo.com\/__darla\/php\/b.php","renderPath":"","allowFiF":false,"srenderPath":"https:\/\/s.yimg.com\/rq\/darla\/2-9-9\/html\/r-sf.html","renderFile":"https:\/\/s.yimg.com\/rq\/darla\/2-9-9\/html\/r-sf.html","sfbrenderPath":"https:\/\/s.yimg.com\/rq\/darla\/2-9-9\/html\/r-sf.html","msgPath":"https:\/\/in.finance.yahoo.com\/__darla\/2-9-9\/html\/msg.html","cscPath":"https:\/\/s.yimg.com\/rq\/darla\/2-9-9\/html\/r-csc.html","root":"__darla","edgeRoot":"https:\/\/s.yimg.com\/rq\/darla\/2-9-9","sedgeRoot":"https:\/\/s.yimg.com\/rq\/darla\/2-9-9","version":"2-9-9","tpbURI":"","hostFile":"https:\/\/s.yimg.com\/rq\/darla\/2-9-9\/js\/g-r-min.js","beaconsDisabled":true,"rotationTimingDisabled":true};
+                        }
+                        if (YMedia) {
+                            YMedia.DarlaVersion = darla_version;
+                        }});
+           
+});
+
+        
+        </script>
+
+
+	
+    </head>
+
+    <body dir="ltr" class="no-js yog-ltr  mosaic ">
+
+        <div id="fb-root">
+</div>
+
+        <script type="text/javascript">
+document.body.className = document.body.className.replace('no-js', 'js'); document.body.offsetHeight;</script>
+
+        <div class="yog-page">
+
+        	<header>
+<div id="yog-hd" class="yog-hd header">
+
+				
+                <div id="header" class="yom-header yog-grid" role="banner">
+<style>
+/* customizable */
+#yUnivHead{}
+#yUnivHead .yuhead-bullet-down{background-position:right -119px;}
+
+/* font color */
+#yUnivHead {color:#fff;}
+#yUnivHead a{color:#fff;}
+#yUnivHead a:hover{color:#fff;}
+
+#yuhead-hd #yuhead-mepanel-cont #yuhead-mepanel li.yuhead-me{border-color:#fff;}
+#yuhead-hd #yuhead-com-links-cont #yuhead-com-links li.yuhead-com-link-item{border-color:#fff;}
+.yuhead-logo h2 a{color:#fff;}
+
+/* promo color */
+#yUnivHead #yuhead-promo .yucs-promo-label{color:#fff;}
+#yUnivHead #yuhead-promo a{color:#fff;}
+#yUnivHead #yuhead-promo a:hover{color:#fff;}
+
+/* background, border, gradients */
+#yUnivHead {
+    background:transparent;
+}
+/* trending promo background - match to header top background */
+#yUnivHead .yucs-trending-anim .yucs-trending-anim-fade {
+	background:transparent;
+}
+/*logos*/
+#yUnivHead .yuhead-logo h2 {background-position:-350px top;}
+/*  #yUnivHead.yucs-en-nz .yuhead-logo h2 {background-position:0px -120px;} */
+#yUnivHead .yuhead-logo h2.small {background-position:0px -360px;}</style>
+<div id="yUnivHead" class="yucs-en-in" data-lang="en-in" data-property="finance" data-flight="1461303227" data-uhvc="/">
+ <div id="yucs-disclaimer" class="yucs-disclaimer yucs-activate yucs-hide yucs-property-finance yucs-fcb- " data-cobrand="standard" data-cu = "0" data-dsstext="Want a better search experience? {dssLink}Set your Search to Yahoo{linkEnd}" data-dsstext-mobile="Search Less, Find More" data-dsstext-mobile-ok="OK" data-dsstext-mobile-set-search="Set Search to Yahoo" data-dssstbtext="Yahoo is the preferred search engine for Firefox. Switch now." data-dssstb-ok="Yes" data-dssstb-no="Not Now" data-ylt-link="https://uk.search.yahoo.com/searchset?pn=" data-ylt-dssbarclose="/" data-ylt-dssbaropen="/" data-ylt-dssstb-link="https://downloads.yahoo.com/sp-firefox" data-ylt-dssstbbarclose="/" data-ylt-dssstbbaropen="/" data-ylt-dssCookieCleanedSuccess="/" data-ylt-dssCookieCleanedFailed="/" data-linktarget="_top" data-lang="en-in" data-property="finance" data-device="Desktop" data-close-txt="Close this window" data-maybelater-txt = "Maybe later" data-killswitch = "0" data-host="in.finance.yahoo.com" data-spaceid="1186550002" data-pn="" data-dss-cookie-cleanup="" data-pn-en-ca-mobile-frontpage="" data-pn-de-de-mobile-frontpage="" data-pn-es-es-mobile-frontpage="" data-pn-fr-fr-mobile-frontpage="" data-pn-en-in-mobile-frontpage="" data-pn-it-it-mobile-frontpage="" data-pn-en-us-mobile-frontpage="" data-pn-en-sg-mobile-frontpage="" data-pn-en-gb-mobile-frontpage="" data-pn-en-us-mobile-mail="" data-pn-en-ca-mobile-mail="" data-pn-de-de-mobile-mail="" data-pn-es-es-mobile-mail="" data-pn-fr-fr-mobile-mail="" data-pn-en-in-mobile-mail="" data-pn-it-it-mobile-mail="" data-pn-en-sg-mobile-mail="" data-pn-en-gb-mobile-mail="" data-pn-pt-br-mobile-mail="" data-pn-en-us-tablet-frontpage="" data-pn-en-us-tablet-mail="" data-pn-en-ca-tablet-mail="" data-pn-de-de-tablet-mail="" data-pn-es-es-tablet-mail="" data-pn-fr-fr-tablet-mail="" data-pn-en-in-tablet-mail="" data-pn-it-it-tablet-mail="" data-pn-en-sg-tablet-mail="" data-pn-en-gb-tablet-mail="" data-pn-pt-br-tablet-mail="" data-news-search-yahoo-com="" data-answers-search-yahoo-com="" data-finance-search-yahoo-com="" data-images-search-yahoo-com="" data-video-search-yahoo-com="" data-sports-search-yahoo-com="" data-shopping-search-yahoo-com="" data-shopping-yahoo-com="" data-us-qa-trunk-news-search-yahoo-com ="" data-dss="1">
+</div>
+    <a href="#yuhead-search" class="yucs-skipto-search yucs-activate">
+Skip to search.</a>
+  <div id="yuhead-hd" class="yuhead-clearfix">
+ <div id="yuhead-mepanel-cont">
+ <ul id="yuhead-mepanel" class="yucs-toolbar yucs-activate" aria-label="User services">
+<li class="yuhead-me yuhead-nodivide yuhead-nopad">
+ <a class="yuhead-signup" href="https://edit.yahoo.com/config/eval_register?.src=quote&.intl=in&.lang=en-IN&.done=https://in.finance.yahoo.com/" target="_top" rel="nofollow">
+ <em>
+New User?</em>
+ Register</a>
+</li>
+<li class="yuhead-me">
+ <a href="https://login.yahoo.com/config/login?.src=quote&.intl=in&.lang=en-IN&.done=https://in.finance.yahoo.com/" target="_top" rel="nofollow">
+ <em>
+Sign In</em>
+</a>
+</li>
+<li class="yuhead-me">
+<a href="https://help.yahoo.com/l/in/yahoo/finance/" rel="nofollow" target="_top">
+Help</a>
+</li>
+</ul>
+   </div>
+ <div id="yuhead-promo">
+<a href="http://in.yahoo.com/bin/set?cmp=uheader&src=others" target="_top" rel="nofollow">
+Make Yahoo Your Homepage<abbr title="Yahoo!">
+</abbr>
+</a>
+</div>
+ <div id="yuhead-com-links-cont">
+ <ul id="yuhead-com-links" class="yucs-toolbar yucs-activate" aria-label="Yahoo services">
+  <li class="yuhead-com-link-item yucs-mailpreview-ancestor">
+ <a class="sp yltasis yuhead-ico-mail" href="https://in.mail.yahoo.com/?.intl=in&.lang=en-IN" rel="nofollow" target="_top">
+Mail</a>
+<ul class="yucs-mail-preview-panel hide" data-uri-scheme="http" data-uri-path="ucs.query.yahoo.com/v1/console/yql" data-mail-txt="Mail" data-mail-view="Go to Mail" data-mail-help-txt="Help" data-mail-help-url="http://help.yahoo.com/l/in/yahoo/mail/ymail/" data-mail-loading-txt="Loading..." data-languagetag="en-in" data-mrd-crumb="" data-authstate="signedout" data-middleauth-signin-text="Click here to view your emails" data-popup-login-url="https://login.yahoo.com/config/login_verify2?.pd=c%3DOIVaOGq62e5hAP8Tv..nr5E3&.src=sc" data-middleauthtext="You have {count} new messages." data-yltmessage-link="http://mrd.mail.yahoo.com/msg?mid={msgID}&fid=Inbox&src=uh&.crumb=" data-yltviewall-link="https://in.mail.yahoo.com/" data-yltpanelshown="/">
+</ul>
+</li>
+<li class="yuhead-com-link-item">
+ <a href="http://in.my.yahoo.com" rel="nofollow" target="_top">
+ My Yahoo </a>
+</li>
+<li id="yuhead-com-home">
+<a class="sp yuhead-ico-home" href="https://in.yahoo.com/" rel="nofollow" target="_top">
+Yahoo</a>
+</li>
+ </ul>
+ </div>
+ </div>
+ <div id="yuhead-bd" class="yuhead-clearfix">
+ <div class="yuhead-logo">
+ <style>
+ .yuhead-logo h2{ width:350px; height:38px; background-image:url(https://s.yimg.com/rz/d/yahoo_finance_en-IN_s_f_pw_351x40_finance.png
+); _background-image:url(https://s.yimg.com/rz/d/yahoo_finance_en-IN_s_f_pw_351x40_finance.gif
+); } .yuhead-logo a{ width:350px; height:38px; } .yuhead-logo div.yuhead-comarketing { width:350px; } .yog-tablet #yUnivHead h2 { background-position: -350px 5px !important; } html[lang='en-AU'] .yog-tablet #yUnivHead .yuhead-logo h2 { background-position: -350px 5px !important; } html[lang='en-NZ'] .yog-tablet #yUnivHead .yuhead-logo h2 { background-position: -350px 5px !important; } .yog-smartphone #yUnivHead h2 { background-position: -265px 0; background-size: 534px; margin-left: 26%; } .yog-tablet .yuhead-logo h2{ background-repeat: repeat-x; } .yog-tablet.yog-version-v2 #yUnivHead h2 { background-position: center !important; } .yog-tablet #yUnivHead .yuhead-logo h2 { height: 40px !important; } .yog-rtl.yog-smartphone #yUnivHead .yuhead-logo h2 { background-position: -352px 0; !important; background-size: 536px !important; margin-left: 30% !important; } html[lang='ar'] .yog-rtl.yog-smartphone #yUnivHead .yuhead-logo h2 { background-position: -386px 0; !important; } .yog-smartphone #yUnivHead h2.yuhead-music { background-position: 0 0 !important; width: 260px !important; } html[lang='en-US'] .yog-smartphone #yUnivHead h2 { background-size: auto 21px !important; background-position: -350px 0; } html[lang='pt-BR'] .yog-smartphone #yUnivHead h2.yuhead-sports { background-position: -265px 0 !important; background-size: 534px; margin-left: 17%; } html[lang='ar'] .yog-smartphone #yUnivHead h2.yuhead-omg { background-position: -383px 0 !important; background-size: 605px; margin-left: 0; width: auto; } html[lang='en-PH'] .yog-tablet #yUnivHead .yuhead-logo h2 { height: 47px !important; } html[lang='en-PH'] .yog-smartphone #yUnivHead h2 { width: 255px; } </style>
+ <h2 class="yuhead-finance yuhead-standard">
+ <a href="https://in.finance.yahoo.com" target="_top" tabindex="-1">
+ Yahoo India Finance </a>
+ </h2>
+ <div id="yucs-disclaimer-md" class="yucs-disclaimer-md yucs-activate yucs-hide Desktop  yucs-property-finance yucs-fcb-" data-dsstext="Want a better search experience? {dssLink}Set your Search to Yahoo{linkEnd}" data-dsstext-mobile="Search Less, Find More" data-dsstext-mobile-ok="OK" data-dsstext-mobile-set-search="Set Search to Yahoo" data-ylt-link="https://uk.search.yahoo.com/searchset?pn=" data-ylt-dssbarclose="/" data-ylt-dssbaropen="/" data-linktarget="_top" data-lang="en-in" data-property="finance" data-device="Desktop" data-close-txt="Close this window" data-maybelater-txt = "Maybe later" data-killswitch = "0" data-dss="1">
+</div>
+ </div>
+ <div id="yuhead-search">
+ <div id="yuhead-sform-cont" class="yuhead-s-web yuhead-search-form">
+ <form role="search" class="yucs-search yucs-activate" target="_top" action="https://in.search.yahoo.com/search" method="get">
+<table role="presentation">
+ <tbody role="presentation">
+<tr role="presentation">
+<td class="yucs-form-input" role="presentation">
+ <label for="yuhead-sform-searchfield">
+ <span>
+Search</span>
+ </label>
+ <input autocomplete="off" type="text" class="sp yuhead-ico-mglass yuhead-search-hint yucs-search-field" name="p" data-sh="Search"  data-gosurl="" id="yuhead-sform-searchfield" data-pubid="" />
+</td>
+<td NOWRAP class="yucs-form-btn" role="presentation">
+<div class="yucs-btn-wrap">
+ <button class="yucs-sweb-btn" type="submit">
+Search Web</button>
+</div>
+ </td>
+ </tr>
+ </tbody>
+</table>
+<input type="hidden" id="fr" name="fr" value="ush1-finance" />
+</form>
+ </div>
+ </div>
+  </div>
+               <!-- meta -->
+<div id="yucs-meta" data-authstate="signedout" data-cobrand="standard" data-crumb="" data-mc-crumb="" data-gta="" data-device="desktop" data-experience="" data-firstname="" data-style="" data-flight="1461303227" data-forcecobrand="standard" data-guid="" data-host="in.finance.yahoo.com" data-https="1" data-languagetag="en-in" data-property="finance" data-protocol="https" data-shortfirstname="" data-shortuserid="" data-status="active" data-spaceid="1186550002" data-test_id="" data-userid="" data-stickyheader="true" data-headercollapse="" data-uh-test="" >
+</div>
+<!-- /meta -->
+</div>
+</div>
+
+		
+                
+            
+
+        <div class="yom-mod yom-nav" id="navigation" role="navigation">
+<div class="bd">
+<div class="nav">
+<div class="nav-stack nav-0">
+<ul class="navlist yog-grid">
+<li class="navitem selected first">
+<a href="/" title="Home" mapleUltParams="sec=MediaNavigation_Main;pos=1">
+<span>
+Home</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="https://in.finance.yahoo.com/investing/" title="Investing" mapleUltParams="sec=MediaNavigation_Main;pos=2">
+<span>
+Markets</span>
+</a>
+<div class="nav-sub nav-1">
+<ul class="navlist subnavlist">
+<li class="navitem first">
+<a href="/actives?e=bo" title="Markets" mapleUltParams="sec=MediaNavigation_Markets;pos=1">
+<span>
+Volume Leaders</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/news/budget/sectorwatch/" mapleUltParams="sec=MediaNavigation_Markets;pos=2">
+<span>
+Sector Watch</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/gainers?e=bo" mapleUltParams="sec=MediaNavigation_Markets;pos=3">
+<span>
+Top Gainers</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/losers?e=bo" mapleUltParams="sec=MediaNavigation_Markets;pos=4">
+<span>
+Top Losers</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem last">
+<a href="/intlindices?e=asia" mapleUltParams="sec=MediaNavigation_Markets;pos=5">
+<span>
+World Indices</span>
+</a>
+<!-- teaser= -->
+</li>
+</ul>
+</div>
+<!-- teaser= -->
+</li>
+<li class="navitem nav-fin-portfolios">
+<a href="/portfolios.html" title="My Portfolios" mapleUltParams="sec=MediaNavigation_Main;pos=3">
+<span>
+My Portfolios</span>
+</a>
+<div class="nav-sub nav-1">
+<ul class="navlist subnavlist">
+<li class="navitem navitem first">
+<a href="https://in.finance.yahoo.com/portfolios" mapleUltParams="sec=MediaNavigation_Main;pos=1">
+<span>
+Sign in to access your portfolios</span>
+</a>
+</li>
+</ul>
+</div>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/news/" title="News" mapleUltParams="sec=MediaNavigation_Main;pos=4">
+<span>
+News</span>
+</a>
+<div class="nav-sub nav-1">
+<ul class="navlist subnavlist">
+<li class="navitem first">
+<a href="/archive/" mapleUltParams="sec=MediaNavigation_News;pos=1">
+<span>
+All Providers</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/news/features/" mapleUltParams="sec=MediaNavigation_News;pos=2">
+<span>
+Analysis</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem last">
+<a href="/news/financequiz/" mapleUltParams="sec=MediaNavigation_News;pos=3">
+<span>
+Quiz</span>
+</a>
+<!-- teaser= -->
+</li>
+</ul>
+</div>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/personal-finance/" title="Personal Finance" mapleUltParams="sec=MediaNavigation_Main;pos=5">
+<span>
+Personal Finance</span>
+</a>
+<div class="nav-sub nav-1">
+<ul class="navlist subnavlist">
+<li class="navitem first">
+<a href="/personal-finance/careers/" mapleUltParams="sec=MediaNavigation_PersonalFinance;pos=1">
+<span>
+Careers</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/personal-finance/equityinvesting/" mapleUltParams="sec=MediaNavigation_PersonalFinance;pos=2">
+<span>
+Equity Investing</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/personal-finance/gold/" mapleUltParams="sec=MediaNavigation_PersonalFinance;pos=3">
+<span>
+Gold and Silver</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/personal-finance/insurance/" mapleUltParams="sec=MediaNavigation_PersonalFinance;pos=4">
+<span>
+Insurance</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/personal-finance/loans/" mapleUltParams="sec=MediaNavigation_PersonalFinance;pos=5">
+<span>
+Loans and Credit Cards</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/personal-finance/mutual-fund/" mapleUltParams="sec=MediaNavigation_PersonalFinance;pos=6">
+<span>
+Mutual Funds</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/personal-finance/realestate/" mapleUltParams="sec=MediaNavigation_PersonalFinance;pos=7">
+<span>
+Real Estate</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem last">
+<a href="/personal-finance/tax/" mapleUltParams="sec=MediaNavigation_PersonalFinance;pos=8">
+<span>
+Tax</span>
+</a>
+<!-- teaser= -->
+</li>
+</ul>
+</div>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/photos/" mapleUltParams="sec=MediaNavigation_Main;pos=6">
+<span>
+In Pics</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem">
+<a href="/video/" mapleUltParams="sec=MediaNavigation_Main;pos=7">
+<span>
+Videos</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem last">
+<a href="/news/budget/" title="Check out the latest Budget news and views headlines from Yahoo! Finance India." mapleUltParams="sec=MediaNavigation_Main;pos=8">
+<span>
+Budget 2016</span>
+</a>
+<div class="nav-sub nav-1">
+<ul class="navlist subnavlist">
+<li class="navitem first">
+<a href="/news/budget/budgetnews/" mapleUltParams="sec=MediaNavigation_Budget2016;pos=1">
+<span>
+Budget News</span>
+</a>
+<!-- teaser= -->
+</li>
+<li class="navitem last">
+<a href="/news/budget/budgetandyou/" mapleUltParams="sec=MediaNavigation_Budget2016;pos=2">
+<span>
+Budget and You</span>
+</a>
+<!-- teaser= -->
+</li>
+</ul>
+</div>
+<!-- teaser= -->
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+                
+                <!-- Finance specific Quote Search bar. Includes Quote Search form at left side and the Market Time(status) at right side. -->
+
+                <div class="yom-bar">
+
+                    <div class="yog-grid yog-24u">
+
+                        <div class="yog-wrap">
+
+                            <div class="yog-col yog-12u">
+
+                                <div class="yog-wrap">
+
+                                   <div class="yog-col yog-6u">
+<div class="yom-mod ticker-search" id="searchQuotes" mode="search">
+<div class="bd">
+                <form action="/q" name="quote" id="quote" class="get-quotes">
+
+                    <label for="txtQuotes">
+Search for share prices</label>
+
+                    <input placeholder="Enter Symbol" type="text" autocomplete="off" value="" name="s" id="txtQuotes" class="get-quotes-box">
+
+                    <input type="hidden" autocomplete="off" value="1" name="ql" id="get_quote_logic_opt">
+
+                    <input type="submit" class="get-quotes-button rapid-nf"  value="Look Up" id="btnQuotes">
+
+                </form>
+
+                <script>
+
+					YUI().use('node', 'event', function (Y) {
+						var tempInputElem = document.createElement('input');
+					    var isPlaceHolder = ('placeholder' in tempInputElem);
+		                if (!isPlaceHolder) {
+		                	var acInputBoxEl = Y.one("#txtQuotes");
+		                    var placeHolderValue = acInputBoxEl.getAttribute('placeholder');
+		                    var preInitVal = acInputBoxEl.get('value');
+		                    acInputBoxEl.on("focus", function() {
+		                        acInputBoxEl.set('value', '');
+		                        acInputBoxEl.removeClass("hint");
+		                    });
+		                    acInputBoxEl.on("blur", function() {
+		                        var value = acInputBoxEl.get('value');
+		                        if (value === null || value.length === 0) {
+		                            acInputBoxEl.set('value', placeHolderValue);
+		                            acInputBoxEl.addClass("hint");
+		                        }
+
+		                    });
+
+		                    if (preInitVal === undefined || preInitVal.length === 0 || preInitVal === placeHolderValue) {
+		                        acInputBoxEl.set('value', placeHolderValue);
+		                        acInputBoxEl.addClass("hint");
+		                    }
+		                }
+					});
+				</script>
+
+                <div id="quoteContainer" class="yui-ac-container yui3-aclist" style="display:none">
+
+                <div class="yui-ac-content yui3-aclist-content">
+
+                    <div class="yui-ac-hd" style="display: none;">
+
+                    </div>
+
+                    <div class="yui-ac-bd">
+
+                        <ul id="resQuotes">
+
+                        </ul>
+
+                    </div>
+
+                    <div class="yui-ac-ft">
+
+                        <div class="moreresults">
+
+                            <a href="javascript:;">
+</a>
+
+                        </div>
+
+                        <div class="tip">
+<em>
+Tip :</em>
+ Use comma (,) to separate multiple quotes. <a href="http://help.yahoo.com/l/in/yahoo/finance/basics/quotelookup.html">
+Learn more...</a>
+</div>
+
+                    </div>
+
+                </div>
+
+                 </div>
+
+            <script>
+
+                yfs_common_params = { "market" : {"NAME" : "",
+                              "ID" : "IN",
+                              "TZ" : "",
+                              "TZOFFSET" : "-18000",
+                              "open" : "",
+                              "close" : "",
+                              "flags" : ""} ,
+                  "STREAMER_SERVER" : "//streamerapi.finance.yahoo.com" ,
+                  "arrowAsChangeSign" : false ,
+                  "throttleInterval": "1000",
+                  "localize":"1" ,
+                  "region": "IN",
+                  "lang" : "en-IN",
+                  "mu":"1" ,
+                  "up_arrow_icon" :"https://s.yimg.com/lq/i/us/fi/03rd/up_g.gif" ,
+                  "down_arrow_icon":"https://s.yimg.com/lq/i/us/fi/03rd/down_r.gif" ,
+                  "up_color" :"green" ,
+                  "down_color":"red",
+                  "pass_market_id" : "0",
+                  "market_status_yrb" :"YFT_MARKET_WILL_CLOSE",
+                  "DOC_DOMAIN" : "finance.yahoo.com",
+                  "useXHR":"1"
+                }
+            </script>
+</div>
+</div>
+</div>
+
+                                   <div class="yog-col yog-6u">
+</div>
+
+                                </div>
+
+                            </div>
+
+                            <div class="yog-col yog-12u">
+
+                                
+                                <div class="yom-mod market-time" id="trending-bar">
+<div class="bd">
+<p>
+<span id="yfs_market_time">
+Fri 22 Apr, 2016, 11:03 AM IST - India Markets close in 4 hrs 27 mins</span>
+</p>
+</div>
+</div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- Removing the trending bar for Finance from the Finance project common template -->
+
+            </div>
+</header>
+
+            <div id="yog-bd" class="yog-bd">
+
+                
+<!-- START full -->
+
+
+<!-- START 24 -->
+
+<div class="yog-wrap yog-full">
+
+    <div class="yog-col yog-grid yog-24u">
+
+        <!-- -->
+
+<div class="yom-mod yom-quotes-mkt-summary" id="mediaquotesmarketsummary">
+<div class="bd">
+            <div id="yfs_marketsummary" class="tabview-content clearfix">
+
+                <ul class="yui3-tabview-list ms-tab-list">
+
+                <li class="yui3-tab yui3-widget ms-tab-listitem yui3-tab-selected">
+<a href="#ms-tab1" class="yui3-tab-label yui3-tab-content ms-tab-listitem rapid-nf">
+India</a>
+</li>
+<li class="yui3-tab yui3-widget ms-tab-listitem">
+<a href="#ms-tab2" class="yui3-tab-label yui3-tab-content ms-tab-listitem rapid-nf">
+Asia</a>
+</li>
+<li class="yui3-tab yui3-widget ms-tab-listitem last">
+<a href="#ms-tab3" class="yui3-tab-label yui3-tab-content ms-tab-listitem rapid-nf">
+US Markets</a>
+</li>
+
+                </ul>
+
+                <div class="panel yui3-tabview-panel">
+
+                <div class="clearfix"  id="ms-tab1">
+                   <dl class="first ">
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=^bsesn" title="S&P BSE SENSEX">
+BSE Sensex</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_^bsesn" class="l84">
+25,890.17</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_^bsesn" class="c63">
+
+                                   <span class="yfi-price-change-green">
++9.79</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_^bsesn" class="pp0">
+
+                                    <b class="yfi-price-change-green">
++0.04%</b>
+
+                               </span>
+
+                           </dd>
+
+                                               <dd class="ms-trigger">
+
+                        <img alt="^BSESN" src="//ichart.finance.yahoo.com/h?s=^BSESN&amp;lang=en-US&amp;region=us" title="S&P BSE SENSEX"/>
+
+                    </dd>
+
+                       </div>
+
+                       
+                       <div class="strip">
+<label class="yfi-price-change-green">
+</label>
+</div>
+
+                  </dl>
+                   <dl >
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=^nsei" title="CNX NIFTY">
+Nifty 50</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_^nsei" class="l84">
+7,909.75</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_^nsei" class="c63">
+
+                                   <span class="yfi-price-change-red">
+-2.30</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_^nsei" class="pp0">
+
+                                    <b class="yfi-price-change-red">
+-0.03%</b>
+
+                               </span>
+
+                           </dd>
+
+                                               <dd class="ms-trigger">
+
+                        <img alt="^NSEI" src="//ichart.finance.yahoo.com/h?s=^NSEI&amp;lang=en-US&amp;region=us" title="CNX NIFTY"/>
+
+                    </dd>
+
+                       </div>
+
+                       
+                       <div class="strip">
+<label class="yfi-price-change-red">
+</label>
+</div>
+
+                  </dl>
+                   <dl >
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=gcm16.cmx" title="Gold Futures,Jun-2016">
+Gold</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_gcm16.cmx" class="l84">
+1,250.20</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_gcm16.cmx" class="c63">
+
+                                   <span class="yfi-price-change-red">
+-0.10</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_gcm16.cmx" class="pp0">
+
+                                    <b class="yfi-price-change-red">
+-0.01%</b>
+
+                               </span>
+
+                           </dd>
+
+                                               <dd class="ms-trigger">
+
+                        <img alt="GCM16.CMX" src="//ichart.finance.yahoo.com/h?s=GCM16.CMX&amp;lang=en-US&amp;region=us" title="Gold Futures,Jun-2016"/>
+
+                    </dd>
+
+                       </div>
+
+                       
+                       <div class="strip">
+<label class="yfi-price-change-red">
+</label>
+</div>
+
+                  </dl>
+                   <dl >
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=clm16.nym" title="Light Sweet Crude Oil Futures,J">
+Oil</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_clm16.nym" class="l84">
+43.78</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_clm16.nym" class="c63">
+
+                                   <span class="yfi-price-change-green">
++0.60</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_clm16.nym" class="pp0">
+
+                                    <b class="yfi-price-change-green">
++1.39%</b>
+
+                               </span>
+
+                           </dd>
+
+                                               <dd class="ms-trigger">
+
+                        <img alt="CLM16.NYM" src="//ichart.finance.yahoo.com/h?s=CLM16.NYM&amp;lang=en-US&amp;region=us" title="Light Sweet Crude Oil Futures,J"/>
+
+                    </dd>
+
+                       </div>
+
+                       
+                       <div class="strip">
+<label class="yfi-price-change-green">
+</label>
+</div>
+
+                  </dl>
+                   <dl >
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=usdinr=x" title="USD/INR">
+USD/INR</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_usdinr=x" class="l84">
+66.4850</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_usdinr=x" class="c63">
+
+                                   <span class="yfi-price-change-red">
+-0.0014</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_usdinr=x" class="pp0">
+
+                                    <b class="yfi-price-change-red">
+0.00%</b>
+
+                               </span>
+
+                           </dd>
+
+                                               <dd class="ms-trigger">
+
+                        <img alt="USDINR=X" src="//ichart.finance.yahoo.com/h?s=USDINR=X&amp;lang=en-US&amp;region=us" title="USD/INR"/>
+
+                    </dd>
+
+                       </div>
+
+                       
+                       <div class="strip">
+<label class="yfi-price-change-red">
+</label>
+</div>
+
+                  </dl>
+                   <dl >
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=eurinr=x" title="EUR/INR">
+EUR/INR</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_eurinr=x" class="l84">
+75.1611</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_eurinr=x" class="c63">
+
+                                   <span class="yfi-price-change-green">
++0.1012</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_eurinr=x" class="pp0">
+
+                                    <b class="yfi-price-change-green">
++0.13%</b>
+
+                               </span>
+
+                           </dd>
+
+                                               <dd class="ms-trigger">
+
+                        <img alt="EURINR=X" src="//ichart.finance.yahoo.com/h?s=EURINR=X&amp;lang=en-US&amp;region=us" title="EUR/INR"/>
+
+                    </dd>
+
+                       </div>
+
+                       
+                       <div class="strip">
+<label class="yfi-price-change-green">
+</label>
+</div>
+
+                  </dl>
+                   <dl >
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=^n225" title="Nikkei 225">
+Nikkei</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_^n225" class="l84">
+17,428.27</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_^n225" class="c63">
+
+                                   <span class="yfi-price-change-green">
++64.65</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_^n225" class="pp0">
+
+                                    <b class="yfi-price-change-green">
++0.37%</b>
+
+                               </span>
+
+                           </dd>
+
+                                               <dd class="ms-trigger">
+
+                        <img alt="^N225" src="//ichart.finance.yahoo.com/h?s=^N225&amp;lang=en-US&amp;region=us" title="Nikkei 225"/>
+
+                    </dd>
+
+                       </div>
+
+                       
+                       <div class="strip">
+<label class="yfi-price-change-green">
+</label>
+</div>
+
+                  </dl>
+                   <dl >
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=^ixic" title="NASDAQ Composite">
+Nasdaq Com...</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_^ixic" class="l84">
+4,945.89</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_^ixic" class="c63">
+
+                                   <span class="yfi-price-change-red">
+-2.24</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_^ixic" class="pp0">
+
+                                    <b class="yfi-price-change-red">
+-0.05%</b>
+
+                               </span>
+
+                           </dd>
+
+                                               <dd class="ms-trigger">
+
+                        <img alt="^IXIC" src="//ichart.finance.yahoo.com/h?s=^IXIC&amp;lang=en-US&amp;region=us" title="NASDAQ Composite"/>
+
+                    </dd>
+
+                       </div>
+
+                       
+                       <div class="strip">
+<label class="yfi-price-change-red">
+</label>
+</div>
+
+                  </dl>
+                   <dl class="last">
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=^dji" title="Dow Jones Industrial Average">
+Dow Jones</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_^dji" class="l84">
+17,982.52</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_^dji" class="c63">
+
+                                   <span class="yfi-price-change-red">
+-113.75</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_^dji" class="pp0">
+
+                                    <b class="yfi-price-change-red">
+-0.63%</b>
+
+                               </span>
+
+                           </dd>
+
+                                               <dd class="ms-trigger">
+
+                        <img alt="^DJI" src="//ichart.finance.yahoo.com/h?s=^DJI&amp;lang=en-US&amp;region=us" title="Dow Jones Industrial Average"/>
+
+                    </dd>
+
+                       </div>
+
+                       
+                       <div class="strip">
+<label class="yfi-price-change-red">
+</label>
+</div>
+
+                  </dl>
+<a href="https://in.finance.yahoo.com/indices" class="more">
+More »</a>
+</div>
+<div class="clearfix yui3-tab-panel"  id="ms-tab2">
+                   <dl class="first chart ">
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=^n225" title="Nikkei 225">
+Nikkei</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_^n225" class="l84">
+17,428.27</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_^n225" class="c63">
+
+                                   <span class="yfi-price-change-green">
++64.65</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_^n225" class="pp0">
+
+                                    <b class="yfi-price-change-green">
++0.37%</b>
+
+                               </span>
+
+                           </dd>
+
+                           
+                       </div>
+
+                                       <div class="ms-chart">
+
+                    <a href="/q?s=^n225" title="Nikkei 225">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://chart.finance.yahoo.com/instrument/1.0/^N225/chart;range=1d/image;size=170x65?region=IN&lang=en-IN');" width="170" height="65" alt="Chart for ^N225" title="" class="lzbg">
+</a>
+
+                </div>
+
+                       <div class="strip">
+<label class="yfi-price-change-green">
+</label>
+</div>
+
+                  </dl>
+                   <dl class="chart ">
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=^hsi" title="HANG SENG INDEX">
+Hang Seng</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_^hsi" class="l84">
+21,442.97</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_^hsi" class="c63">
+
+                                   <span class="yfi-price-change-red">
+-179.28</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_^hsi" class="pp0">
+
+                                    <b class="yfi-price-change-red">
+-0.83%</b>
+
+                               </span>
+
+                           </dd>
+
+                           
+                       </div>
+
+                                       <div class="ms-chart">
+
+                    <a href="/q?s=^hsi" title="HANG SENG INDEX">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://chart.finance.yahoo.com/instrument/1.0/^HSI/chart;range=1d/image;size=170x65?region=IN&lang=en-IN');" width="170" height="65" alt="Chart for ^HSI" title="" class="lzbg">
+</a>
+
+                </div>
+
+                       <div class="strip">
+<label class="yfi-price-change-red">
+</label>
+</div>
+
+                  </dl>
+                   <dl class="chart last">
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=^sti" title="STI Index">
+Straits Times</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_^sti" class="l84">
+2,936.59</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_^sti" class="c63">
+
+                                   <span class="yfi-price-change-red">
+-24.19</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_^sti" class="pp0">
+
+                                    <b class="yfi-price-change-red">
+-0.82%</b>
+
+                               </span>
+
+                           </dd>
+
+                           
+                       </div>
+
+                                       <div class="ms-chart">
+
+                    <a href="/q?s=^sti" title="STI Index">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://chart.finance.yahoo.com/instrument/1.0/^STI/chart;range=1d/image;size=170x65?region=IN&lang=en-IN');" width="170" height="65" alt="Chart for ^STI" title="" class="lzbg">
+</a>
+
+                </div>
+
+                       <div class="strip">
+<label class="yfi-price-change-red">
+</label>
+</div>
+
+                  </dl>
+<a href="https://in.finance.yahoo.com/intlindices?e=asia" class="more">
+More »</a>
+</div>
+<div class="clearfix yui3-tab-panel"  id="ms-tab3">
+                   <dl class="first chart ">
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=^dji" title="Dow Jones Industrial Average">
+Dow Jones</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_^dji" class="l84">
+17,982.52</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_^dji" class="c63">
+
+                                   <span class="yfi-price-change-red">
+-113.75</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_^dji" class="pp0">
+
+                                    <b class="yfi-price-change-red">
+-0.63%</b>
+
+                               </span>
+
+                           </dd>
+
+                           
+                       </div>
+
+                                       <div class="ms-chart">
+
+                    <a href="/q?s=^dji" title="Dow Jones Industrial Average">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://chart.finance.yahoo.com/instrument/1.0/^DJI/chart;range=1d/image;size=170x65?region=IN&lang=en-IN');" width="170" height="65" alt="Chart for ^DJI" title="" class="lzbg">
+</a>
+
+                </div>
+
+                       <div class="strip">
+<label class="yfi-price-change-red">
+</label>
+</div>
+
+                  </dl>
+                   <dl class="chart ">
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=^ixic" title="NASDAQ Composite">
+Nasdaq Com...</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_^ixic" class="l84">
+4,945.89</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_^ixic" class="c63">
+
+                                   <span class="yfi-price-change-red">
+-2.24</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_^ixic" class="pp0">
+
+                                    <b class="yfi-price-change-red">
+-0.05%</b>
+
+                               </span>
+
+                           </dd>
+
+                           
+                       </div>
+
+                                       <div class="ms-chart">
+
+                    <a href="/q?s=^ixic" title="NASDAQ Composite">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://chart.finance.yahoo.com/instrument/1.0/^IXIC/chart;range=1d/image;size=170x65?region=IN&lang=en-IN');" width="170" height="65" alt="Chart for ^IXIC" title="" class="lzbg">
+</a>
+
+                </div>
+
+                       <div class="strip">
+<label class="yfi-price-change-red">
+</label>
+</div>
+
+                  </dl>
+                   <dl class="chart last">
+
+                      <div class="desc">
+
+                           <dt>
+
+                                <a href="/q?s=^gspc" title="S&P 500">
+S&P 500</a>
+
+                           </dt>
+
+                           <dd>
+
+                                <span id="yfs_l84_^gspc" class="l84">
+2,091.48</span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_c63_^gspc" class="c63">
+
+                                   <span class="yfi-price-change-red">
+-10.92</span>
+
+                               </span>
+
+                           </dd>
+
+                           <dd>
+
+                               <span id="yfs_pp0_^gspc" class="pp0">
+
+                                    <b class="yfi-price-change-red">
+-0.52%</b>
+
+                               </span>
+
+                           </dd>
+
+                           
+                       </div>
+
+                                       <div class="ms-chart">
+
+                    <a href="/q?s=^gspc" title="S&P 500">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://chart.finance.yahoo.com/instrument/1.0/^GSPC/chart;range=1d/image;size=170x65?region=IN&lang=en-IN');" width="170" height="65" alt="Chart for ^GSPC" title="" class="lzbg">
+</a>
+
+                </div>
+
+                       <div class="strip">
+<label class="yfi-price-change-red">
+</label>
+</div>
+
+                  </dl>
+<a href="https://in.finance.yahoo.com/usindices?e=dow_jones" class="more">
+More »</a>
+</div>
+
+                </div>
+
+                <script>
+if(!window.yfs_module_params) {
+                    yfs_module_params = {
+                        s : [],
+                        k : ['c63','l84','p43','t53','t10']
+                    };
+                 }
+                 yfs_module_params.s.push('^bsesn','^nsei','gcm16.cmx','clm16.nym','usdinr=x','eurinr=x','^n225','^ixic','^dji','^n225','^hsi','^sti','^dji','^ixic','^gspc')</script>
+
+            </div>
+</div>
+</div>
+
+<div class="yom-mod yom-breaking-news yom-breaking-news-theme-2" id="mediabreakingnewstemp">
+<div class="hd">
+<h3>
+LATEST NEWS</h3>
+</div>
+<div class="bd">
+<ul>
+<li class="first">
+<a href="/news/oil-prices-set-one-biggest-011158574.html" mapleUltParams="pkg=250300d0-fc8b-375d-b17a-c0430a4b1c07;ver=ce13bd51-0843-11e6-afcf-f155ee194224;pos=1">
+Oil prices set for one of the biggest weekly rises in 2016</a>
+<cite>
+Reuters - 57 minutes ago</cite>
+</li>
+<li>
+<a href="/news/mitsubishi-motors-manipulated-mileage-data-000751900.html" mapleUltParams="pkg=4f9bd784-c286-3c72-95d0-a925e05efcc9;ver=0f4c0491-0843-11e6-9f7f-f1058afa647b;pos=2">
+Mitsubishi Motors mileage scandal widens, U.S. regulator seeks information</a>
+<cite>
+Reuters - 1 hour 3 minutes ago</cite>
+</li>
+<li>
+<a href="/news/gold-silver-slip-recent-highs-005859611.html" mapleUltParams="pkg=055683ad-9ea9-37c7-8adc-e093bc9d5c2b;ver=1793afb1-0841-11e6-9ba6-78fa59ab20b7;pos=3">
+Silver rises towards 11-month high, set for third weekly gain</a>
+<cite>
+Reuters - 1 hour 17 minutes ago</cite>
+</li>
+<li>
+<a href="/news/sensex-loses-40-points-early-040603226.html" mapleUltParams="pkg=6e867adc-179f-3198-922c-05d2edf8656e;ver=d2aed0a1-0840-11e6-89bb-b3d0dc8b9249;pos=4">
+Sensex loses 40 points in early trade</a>
+<cite>
+IANS - 1 hour 27 minutes ago</cite>
+</li>
+<li>
+<a href="/news/bankrupt-sunedison-keep-india-expansion-034402175.html" mapleUltParams="pkg=2942d9dd-4f5d-3b3a-a0cb-36d755930785;ver=892cbf90-083c-11e6-9ffa-c0388f89737b;pos=5">
+Bankrupt SunEdison to keep India expansion plans - Asia head</a>
+<cite>
+Reuters - 1 hour 49 minutes ago</cite>
+</li>
+<li>
+<a href="/news/china-adds-3-18-million-034237488.html" mapleUltParams="pkg=fca124c5-48b4-34c2-9c51-ede175e5aeb6;ver=637fd201-083c-11e6-bfcf-1d4a60c56db1;pos=6">
+China adds 3.18 million urban jobs in Q1, unemployment rate flat</a>
+<cite>
+Reuters - 1 hour 51 minutes ago</cite>
+</li>
+<li>
+<a href="/news/asian-shares-sag-cloudy-u-004409128.html" mapleUltParams="pkg=72c6b295-837f-38c9-8a3f-71495f47700c;ver=28f85eb1-083a-11e6-af3f-1761a9b0891c;pos=7">
+Asian shares sag after cloudy U.S. earnings outlook</a>
+<cite>
+Reuters - 2 hours 6 minutes ago</cite>
+</li>
+<li>
+<a href="/news/monetary-authority-singapore-probing-several-022336311.html" mapleUltParams="pkg=32070b0c-5d06-3eef-b165-5b4f95d4996b;ver=4ae96bd1-0831-11e6-beff-b3f77ca06623;pos=8">
+Monetary Authority of Singapore probing several firms over possible securities act breaches</a>
+<cite>
+Reuters - 3 hours ago</cite>
+</li>
+<li>
+<a href="/news/microsoft-revenue-profit-misses-estimates-021828667.html" mapleUltParams="pkg=fe8a87ea-ed2a-34f7-b782-524b10905a77;ver=997b5cf1-0830-11e6-b9ef-c20703ad773c;pos=9">
+Microsoft revenue, profit misses estimates</a>
+<cite>
+Reuters - 3 hours ago</cite>
+</li>
+<li>
+<a href="/news/u-auto-safety-regulator-looking-013036230.html" mapleUltParams="pkg=24910ccf-9bdb-3f6a-9cc9-42cb78c4241c;ver=ec754ad0-0829-11e6-bacf-e081277b5816;pos=10">
+U.S. auto safety regulator looking into Mitsubishi fuel economy issue</a>
+<cite>
+Reuters - 4 hours ago</cite>
+</li>
+<li>
+<a href="/news/singapore-central-bank-probing-several-011445457.html" mapleUltParams="pkg=0feaefb2-c5af-3375-b650-7c72fc7fc222;ver=b98affe1-0827-11e6-bddf-8641f1349368;pos=11">
+Singapore central bank probing several firms over possible securities act breaches</a>
+<cite>
+Reuters - 4 hours ago</cite>
+</li>
+<li>
+<a href="/news/intel-microsoft-face-different-challenges-010508708.html" mapleUltParams="pkg=ae6fe47a-1f85-39c6-9c41-5a575e14fd05;ver=5be36ef1-0826-11e6-baff-46ee783b0c2b;pos=12">
+Intel and Microsoft face different challenges in shifts to cloud</a>
+<cite>
+Reuters - 4 hours ago</cite>
+</li>
+<li>
+<a href="/news/japan-transport-minister-wants-mitsubishi-005624428.html" mapleUltParams="pkg=ff44eb78-5788-35b3-9117-481a0bc5b435;ver=1df27561-0825-11e6-bffd-6978e0c5f7b4;pos=13">
+Japan transport minister wants Mitsubishi to consider buying back cars - Kyodo</a>
+<cite>
+Reuters - 4 hours ago</cite>
+</li>
+<li>
+<a href="/news/secureworks-raises-112-million-years-004729458.html" mapleUltParams="pkg=f216b10f-6b00-36ec-8092-826697143fd3;ver=b5cfd400-0824-11e6-8fde-acd80e500a7a;pos=14">
+SecureWorks raises $112 million in year's first technology IPO</a>
+<cite>
+Reuters - 4 hours ago</cite>
+</li>
+<li>
+<a href="/news/aia-group-posts-44-percent-001945557.html" mapleUltParams="pkg=827f4092-171a-364d-bfd0-65b8f1b57ba6;ver=0cc43621-0820-11e6-babf-91942d5fe606;pos=15">
+AIA Group posts 44 percent rise in new business growth for first quarter</a>
+<cite>
+Reuters - 5 hours ago</cite>
+</li>
+<li>
+<a href="/news/luxury-accessories-brand-mcm-sees-000621080.html" mapleUltParams="pkg=e9aeed01-32ee-31cb-afb4-af18037828ec;ver=275064c1-081e-11e6-bcdf-dbb273718af6;pos=16">
+Luxury accessories brand MCM sees $2 billion sales in 5 years</a>
+<cite>
+Reuters - 5 hours ago</cite>
+</li>
+<li>
+<a href="/news/exclusive-beijing-auditions-foreign-agencies-000344114.html" mapleUltParams="pkg=7eac1bad-9f55-3cc3-ba8c-c26298316ec9;ver=c68975f1-081d-11e6-bdf4-edea629087b9;pos=17">
+Exclusive - Beijing auditions foreign agencies to polish China brand</a>
+<cite>
+Reuters - 5 hours ago</cite>
+</li>
+<li>
+<a href="/news/alphabet-profit-misses-expectations-cost-203210882.html" mapleUltParams="pkg=9f782ebc-9509-332b-aa45-8ac44b6dc6f2;ver=f21f3e71-0818-11e6-9665-1b53743df02a;pos=18">
+Google's parent Alphabet misses Wall Street view, hit by strong dollar</a>
+<cite>
+Reuters - 6 hours ago</cite>
+</li>
+<li>
+<a href="/news/starbucks-cafe-sales-growth-falls-203035574.html" mapleUltParams="pkg=a935dc8b-7015-3238-bbcd-63e599a0aac4;ver=6d728d81-0818-11e6-adfe-0c33830d334e;pos=19">
+Starbucks cafe sales growth falls short, shares fall</a>
+<cite>
+Reuters - 6 hours ago</cite>
+</li>
+<li class="last">
+<a href="/news/palm-oil-industry-fumes-indonesia-232131806.html" mapleUltParams="pkg=7d210982-1a6d-336d-9946-cc145d77e109;ver=d9ed33d1-0817-11e6-be3f-7d938f557f07;pos=20">
+Palm oil industry fumes as Indonesia gets tough on forest fires</a>
+<cite>
+Reuters - 6 hours ago</cite>
+</li>
+</ul>
+</div>
+</div>
+
+
+<!-- START 24 -->
+
+<div class="yog-wrap yog-full">
+
+    <div class="yog-col yog-grid yog-24u">
+
+        <!-- -->
+
+<!-- START 24 -->
+
+<div class="yog-wrap yog-full">
+
+    <div class="yog-col yog-grid yog-24u">
+
+        <!-- -->
+
+<!-- START 16_8 -->
+
+<div class="yog-wrap yog-grid yog-24u">
+
+    <div class="yog-col yog-16u yom-primary">
+
+        <!-- -->
+
+                    
+                      <style>
+#mediamegatron-slide-0{background-image:url(https://s.yimg.com/bt/api/res/1.2/3Iwp0UNk4gmExUFX3N401w--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9MjQyO2lsPXBsYW5lO3B5b2ZmPTA7cT03NTt3PTQzMA--/http://globalfinance.zenfs.com/images/US_AHTTP_AP_FINANCIALTIMES/f475b7f2761cc314960f6a7067008325_original.jpg);} #mediamegatron-slide-1{background-image:url(https://s1.yimg.com/bt/api/res/1.2/2cLRgsMFoZZFf6EmcIik4Q--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9MTA3O3B5b2ZmPTA7cT03NTt3PTE5MA--/http://media.zenfs.com/en_us/News/ap_webfeeds/f33f59b2821c466f812898c3a5a93e9b.jpg);} #mediamegatron-slide-2{background-image:url(https://s1.yimg.com/bt/api/res/1.2/_PNk7J4z20f1KDrQscuXsQ--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9MTA3O3B5b2ZmPTA7cT03NTt3PTE5MA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-22T011158Z_1_LYNXNPEC3L03O_RTROPTP_3_OIL-MEETING-PRICES_original.jpg);} </style>
+
+                    
+                
+<div class="yom-mod yom-megatron" id="mediamegatron">
+<div class="bd">
+<div class="default">
+<div class="yog-wrap yog-grid yog-16u">
+            <div class="yog-col yog-11u yom-primary">
+
+                
+                                    <div class="x1">
+
+                                        <div class="asset">
+
+                    <div class="pane first">
+
+                        <div class="feature">
+
+                            <a href="/news/uber-settlement-keeps-drivers-contractors-2-states-031642887--finance.html" tabindex="-1" class="img" style="width:430px; height:242px;" mapleUltParams="pkg=ba2a610e-58be-3544-8e16-8f27993e8800;ver=5a940891-0847-11e6-bfdb-96e9bb2d7dc0;lt=i;pos=1">
+                    <span class="slide" id="mediamegatron-slide-0" data-link="/photos/uber-settlement-keeps-drivers-contractors-photo-032848345.html" style="width:430px; height:242px; opacity:1;">
+Uber settlement keeps drivers as contractors in 2 states</span>
+</a>
+
+                                            <div class="meta">
+
+                    
+                    <div class="bd">
+
+                        <div>
+
+                            <a href="/news/uber-settlement-keeps-drivers-contractors-2-states-031642887--finance.html" mapleUltParams="pkg=ba2a610e-58be-3544-8e16-8f27993e8800;ver=5a940891-0847-11e6-bfdb-96e9bb2d7dc0;lt=i;pos=1">
+        <b class="icon-play-medium">
+</b>
+</a>
+
+                            
+                            <h2>
+<a href="/news/uber-settlement-keeps-drivers-contractors-2-states-031642887--finance.html" mapleUltParams="pkg=ba2a610e-58be-3544-8e16-8f27993e8800;ver=5a940891-0847-11e6-bfdb-96e9bb2d7dc0;lt=i;pos=1">
+Uber settlement keeps drivers as contractors in 2 states</a>
+</h2>
+
+                            <p>
+Uber has agreed to pay up to $100 million and make several policy concessions to settle a pair of major class-action lawsuits&#x2026;</p>
+
+                            
+                        </div>
+
+                    </div>
+<!--/.bd-->
+
+                    <div class="ft">
+
+                        
+                        
+                    </div>
+
+                </div>
+<!--/.yom-mega-meta-->
+
+                        </div>
+
+                        
+                    </div>
+
+                </div>
+
+                    </div>
+
+            </div>
+<!--/.yog-col-->
+            <div class="yog-col yog-5u yog-col-last">
+
+                
+                                    <div class="x2">
+
+                                        <div class="asset">
+
+                    <div class="pane first">
+
+                        <div class="feature">
+
+                            <a href="/news/answers-questions-volkswagen-dirty-diesel-040522751.html" tabindex="-1" class="img" style="width:190px; height:107px;" mapleUltParams="pkg=1f34dc25-9508-3fc6-a1be-3704d86414a9;ver=319107a1-0846-11e6-bfdf-0b23e6fcddcc;lt=i;pos=2">
+                    <span class="slide" id="mediamegatron-slide-1" data-link="/photos/joyce-ertel-hulbert-owner-2015-volkswagen-golf-tdi-photo-165250952.html" style="width:190px; height:107px; opacity:1;">
+Joyce Ertel Hulbert, owner of a 2015 Volkswagen Golf TDI, holds a sign while interviewed outside of the Phillip Burton Federal Building in San Francisco, Thursday, April 21, 2016. An agreement will give consumers who bought nearly 600,000 Volkswagen vehicles rigged to cheat on emissions tests the option of having the automaker buy back the cars or fix them, a judge said Thursday. (AP Photo/Jeff Chiu)</span>
+</a>
+
+                                            <div class="meta">
+
+                    
+                    <div class="bd">
+
+                        <div>
+
+                            <a href="/news/answers-questions-volkswagen-dirty-diesel-040522751.html" tabindex="-1" mapleUltParams="pkg=1f34dc25-9508-3fc6-a1be-3704d86414a9;ver=319107a1-0846-11e6-bfdf-0b23e6fcddcc;lt=i;pos=2">
+        <b class="icon-play-medium">
+</b>
+</a>
+
+                            
+                            <h2>
+<a href="/news/answers-questions-volkswagen-dirty-diesel-040522751.html" tabindex="-1" mapleUltParams="pkg=1f34dc25-9508-3fc6-a1be-3704d86414a9;ver=319107a1-0846-11e6-bfdf-0b23e6fcddcc;lt=i;pos=2">
+Answers to questions about Volkswagen dirty diesel deal</a>
+</h2>
+
+                            <p>
+People who own one of 482,000 Volkswagen vehi&#x2026;</p>
+
+                            
+                        </div>
+
+                    </div>
+<!--/.bd-->
+
+                    <div class="ft">
+
+                        
+                        
+                    </div>
+
+                </div>
+<!--/.yom-mega-meta-->
+
+                        </div>
+
+                        
+                    </div>
+
+                </div>
+
+                    </div>
+                    <div class="x2">
+
+                                        <div class="asset">
+
+                    <div class="pane ">
+
+                        <div class="feature">
+
+                            <a href="/news/oil-prices-set-one-biggest-011158574.html" tabindex="-1" class="img" style="width:190px; height:107px;" mapleUltParams="pkg=250300d0-fc8b-375d-b17a-c0430a4b1c07;ver=ce13bd51-0843-11e6-afcf-f155ee194224;lt=i;pos=3">
+                    <span class="slide" id="mediamegatron-slide-2" data-link="/photos/file-photo-worker-walking-past-photo-011158591.html" style="width:190px; height:107px; opacity:1;">
+File photo of a worker walking past a pump jack on an oil field owned by Bashneft, Bashkortostan</span>
+</a>
+
+                                            <div class="meta">
+
+                    
+                    <div class="bd">
+
+                        <div>
+
+                            <a href="/news/oil-prices-set-one-biggest-011158574.html" tabindex="-1" mapleUltParams="pkg=250300d0-fc8b-375d-b17a-c0430a4b1c07;ver=ce13bd51-0843-11e6-afcf-f155ee194224;lt=i;pos=3">
+        <b class="icon-play-medium">
+</b>
+</a>
+
+                            
+                            <h2>
+<a href="/news/oil-prices-set-one-biggest-011158574.html" tabindex="-1" mapleUltParams="pkg=250300d0-fc8b-375d-b17a-c0430a4b1c07;ver=ce13bd51-0843-11e6-afcf-f155ee194224;lt=i;pos=3">
+Oil prices set for one of the biggest weekly rises in 2016</a>
+</h2>
+
+                            <p>
+Oil prices rose in Asian trade on Friday, set&#x2026;</p>
+
+                            
+                        </div>
+
+                    </div>
+<!--/.bd-->
+
+                    <div class="ft">
+
+                        
+                        
+                    </div>
+
+                </div>
+<!--/.yom-mega-meta-->
+
+                        </div>
+
+                        
+                    </div>
+
+                </div>
+
+                    </div>
+
+            </div>
+<!--/.yog-col-->
+</div>
+</div>
+</div>
+</div>
+
+<div class="yom-mod yom-bcarousel ymg-carousel rapid-nf" id="mediabcarouselmixedlpca">
+<div class="hd">
+<div class="yui-carousel-nav">
+<div class="heading">
+<h3>
+Latest Videos</h3>
+</div>
+<![if gte IE 7]>
+<div class="hidden controls ymg-carousel-nav-wrap">
+<div class="pagination yui-carousel-pagination">
+1 - 4 of 60</div>
+<div class="ymg-nav-buttons">
+<a href="#previous" class="prev-page yui-carousel-button yui-carousel-prev yom-button yui-carousel-first-button-disabled rapid-nf">
+<span>
+<strong>
+prev</strong>
+</span>
+</a>
+<a href="#next" class="next-page yui-carousel-button yui-carousel-next yom-button rapid-nf">
+<span>
+<strong>
+next</strong>
+</span>
+</a>
+</div>
+</div>
+<![endif]>
+</div>
+</div>
+<div class="bd">
+<div class="yui3-bcarousel yui3-scrollview tpl-tile no-cite">
+<ul class="bcarousel-pages yui3-bcarousel-content cols-4 ratio-4x3 item_bg-white title-2 cite-0">
+<li class="bcarousel-page">
+<ul class="bcarousel-items">
+<li class="bcarousel-item" data-id="92b350bd-85b1-342e-9327-c88cc3a54d40" data-provider-id="video.etnow.com">
+<div class="item-wrap">
+<a href="/video/stocks-focus-sanghi-inds-til-052011351.html" class="img-wrap"  mapleUltParams="pkg=92b350bd-85b1-342e-9327-c88cc3a54d40;lt=i;pos=1">
+<!--[if lte IE 7]>
+<div class = "bcarousel-ie6">
+<![endif]-->
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/hTdirrKgmSk15Myy5DWtpQ--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9MTEyO3B5b2ZmPTA7cT03NTt3PTE1MA--/http://media.zenfs.com/en-IN/video/video.etnow.com/7a41743c88d44760cf3bddd6c77e1af2');" width="150" height="112" alt="Stocks in focus: Sanghi Inds, TIL, MCX" title="" class="lzbg">
+<div class="icon icon-medium icon-play-small" data-ad-add='{"class":"Dn"}'>
+ </div>
+<!--[if lte IE 7]>
+</div>
+<![endif]-->
+</a>
+<div class="txt">
+<p class="title">
+<a href="/video/stocks-focus-sanghi-inds-til-052011351.html" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}' mapleUltParams="pkg=92b350bd-85b1-342e-9327-c88cc3a54d40;lt=i;pos=1">
+Stocks in focus: Sanghi Inds, TIL, MCX</a>
+</p>
+</div>
+</div>
+</li>
+<li class="bcarousel-item" data-id="0540c353-4f50-3d96-8623-454b5f188640" data-provider-id="video.etnow.com">
+<div class="item-wrap">
+<a href="/video/global-market-cues-expert-view-052004180.html" class="img-wrap"  mapleUltParams="pkg=0540c353-4f50-3d96-8623-454b5f188640;lt=i;pos=2">
+<!--[if lte IE 7]>
+<div class = "bcarousel-ie6">
+<![endif]-->
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/_uFdQzcorQoygp3YeMGp4Q--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9MTEyO3B5b2ZmPTA7cT03NTt3PTE1MA--/http://media.zenfs.com/en-IN/video/video.etnow.com/74c29acd97568ef66c01fdf6e6eb9b29');" width="150" height="112" alt="Global market cues: Expert view" title="" class="lzbg">
+<div class="icon icon-medium icon-play-small" data-ad-add='{"class":"Dn"}'>
+ </div>
+<!--[if lte IE 7]>
+</div>
+<![endif]-->
+</a>
+<div class="txt">
+<p class="title">
+<a href="/video/global-market-cues-expert-view-052004180.html" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}' mapleUltParams="pkg=0540c353-4f50-3d96-8623-454b5f188640;lt=i;pos=2">
+Global market cues: Expert view</a>
+</p>
+</div>
+</div>
+</li>
+<li class="bcarousel-item" data-id="88dc71e9-141c-3770-9f0e-71ecd631c99c" data-provider-id="video.etnow.com">
+<div class="item-wrap">
+<a href="/video/sensex-opens-50-pts-higher-052004452.html" class="img-wrap"  mapleUltParams="pkg=88dc71e9-141c-3770-9f0e-71ecd631c99c;lt=i;pos=3">
+<!--[if lte IE 7]>
+<div class = "bcarousel-ie6">
+<![endif]-->
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/7cG9bct6cCWh7gMkjerFBg--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9MTEyO3B5b2ZmPTA7cT03NTt3PTE1MA--/http://media.zenfs.com/en-IN/video/video.etnow.com/9a8d325f353bd2bbabe924978ed1a8fa');" width="150" height="112" alt="Sensex opens 50 pts higher, Nifty50 below 7900" title="" class="lzbg">
+<div class="icon icon-medium icon-play-small" data-ad-add='{"class":"Dn"}'>
+ </div>
+<!--[if lte IE 7]>
+</div>
+<![endif]-->
+</a>
+<div class="txt">
+<p class="title">
+<a href="/video/sensex-opens-50-pts-higher-052004452.html" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}' mapleUltParams="pkg=88dc71e9-141c-3770-9f0e-71ecd631c99c;lt=i;pos=3">
+Sensex opens 50 pts higher, Nifty50 below 7900</a>
+</p>
+</div>
+</div>
+</li>
+<li class="bcarousel-item" data-id="8c5d4228-9e6d-3b3a-a254-dde8e0c3a358" data-provider-id="video.etnow.com">
+<div class="item-wrap">
+<a href="/video/rbi-rolls-merger-norms-banks-052004702.html" class="img-wrap"  mapleUltParams="pkg=8c5d4228-9e6d-3b3a-a254-dde8e0c3a358;lt=i;pos=4">
+<!--[if lte IE 7]>
+<div class = "bcarousel-ie6">
+<![endif]-->
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/3IkeqwJVvk7yss04DQvmmg--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9MTEyO3B5b2ZmPTA7cT03NTt3PTE1MA--/http://media.zenfs.com/en-IN/video/video.etnow.com/958c97b3e0029b8eb02421a2fc4d1b54');" width="150" height="112" alt="RBI rolls out new merger norms for banks" title="" class="lzbg">
+<div class="icon icon-medium icon-play-small" data-ad-add='{"class":"Dn"}'>
+ </div>
+<!--[if lte IE 7]>
+</div>
+<![endif]-->
+</a>
+<div class="txt">
+<p class="title">
+<a href="/video/rbi-rolls-merger-norms-banks-052004702.html" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}' mapleUltParams="pkg=8c5d4228-9e6d-3b3a-a254-dde8e0c3a358;lt=i;pos=4">
+RBI rolls out new merger norms for banks</a>
+</p>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="ft">
+<div class="show-more">
+<a href="/video/">
+Other videos »</a>
+</div>
+</div>
+</div>
+
+<div class="yom-mod yom-blist" id="mediamosaiclistlpca">
+<div class="hd">
+<h3>
+LATEST NEWS, FEATURES & OPINIONS</h3>
+</div>
+<div class="bd">
+<ul class="tpl-thumb_100x75_title_description yom-list yom-list-large">
+<li class="first">
+<a href="/news/oil-prices-set-one-biggest-011158574.html" class="thumb" mapleUltParams="pkg=250300d0-fc8b-375d-b17a-c0430a4b1c07;ver=ce13bd51-0843-11e6-afcf-f155ee194224;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/.RvuGvM0VLDaVbk4PAirFQ--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-22T011158Z_1_LYNXNPEC3L03O_RTROPTP_3_OIL-MEETING-PRICES_original.jpg');" width="100" height="75" alt="Oil prices set for one of the biggest weekly rises in 2016" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/oil-prices-set-one-biggest-011158574.html" class="title " mapleUltParams="pkg=250300d0-fc8b-375d-b17a-c0430a4b1c07;ver=ce13bd51-0843-11e6-afcf-f155ee194224;lt=i">
+Oil prices set for one of the biggest weekly rises in 2016</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T04:35:51Z">
+57 minutes ago</abbr>
+</cite>
+ <p class="description">
+Oil prices rose in Asian trade on Friday, setting crude futures on course for solid weekly gains, as market sentiment becomes more upbeat despite ongoing&nbsp;&hellip; <a href="/news/oil-prices-set-one-biggest-011158574.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Oil prices set for one of the biggest weekly rises in 2016</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/mitsubishi-motors-manipulated-mileage-data-000751900.html" class="thumb" mapleUltParams="pkg=4f9bd784-c286-3c72-95d0-a925e05efcc9;ver=0f4c0491-0843-11e6-9f7f-f1058afa647b;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/TS4oDoClaY60wXt1qTwGUw--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-22T013109Z_3_LYNXNPEC3L00K_RTROPTP_3_MITSUBISHIMOTORS-REGULATIONS_original.jpg');" width="100" height="75" alt="Mitsubishi Motors mileage scandal widens, U.S. regulator seeks information" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/mitsubishi-motors-manipulated-mileage-data-000751900.html" class="title " mapleUltParams="pkg=4f9bd784-c286-3c72-95d0-a925e05efcc9;ver=0f4c0491-0843-11e6-9f7f-f1058afa647b;lt=i">
+Mitsubishi Motors mileage scandal widens, U.S. regulator seeks information</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T04:30:45Z">
+1 hour 2 minutes ago</abbr>
+</cite>
+ <p class="description">
+Mitsubishi Motors Corp's fuel economy scandal broadened on Friday as U.S. auto safety authorities said they were seeking information and after reports&nbsp;&hellip; <a href="/news/mitsubishi-motors-manipulated-mileage-data-000751900.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Mitsubishi Motors mileage scandal widens, U.S. regulator seeks information</span>
+</a>
+</p>
+</div>
+</li>
+<li class="list-story classickick Dn" data-ad="card" data-ad-remove='{"class":"Dn"}'>
+
+    <a href="#" class="thumb" tabindex="-1" data-ad-replace='{"href":"clickUrl","target":"_blank"}'>
+
+        <img data-ad-image data-ad-replace='{"src":"secHqImage","alt":"headline"}' width="100" height="auto" />
+
+    </a>
+
+    <div class="txt">
+
+        <a href="#" class="title" data-ad-replace='{"_markup":"headline","href":"clickUrl","target":"_blank"}'>
+</a>
+
+        <cite class="Whs-nw ads-sponsored-text">
+
+             - <span class="provider">
+<a rel="nofollow" href="#" data-ad-replace='{"_markup":"source","href":"landingUrl"}' class="ad-source">
+</a>
+</span>
+ 
+            <abbr>
+
+                <a rel="nofollow" href="https://help.yahoo.com/kb/SLN22774.html?impressions=true" target="_blank" class="ad-sponsored">
+
+                    <span class="C-darkGrey Fz-xs">
+Sponsored</span>
+
+                </a>
+
+            </abbr>
+
+            <a rel="nofollow" data-ad-remove='{"class":"Dn"}' class="Dn" href="https://info.yahoo.com/privacy/us/yahoo/relevantads.html" target="_blank">
+
+                <i class="Icon C-darkGrey ">
+&#xe080;</i>
+
+            </a>
+
+        </cite>
+
+        <p class="description" data-ad-replace='{"_markup":"summary"}'>
+</p>
+
+    </div>
+
+</li>
+<li>
+<a href="/news/gold-silver-slip-recent-highs-005859611.html" class="thumb" mapleUltParams="pkg=055683ad-9ea9-37c7-8adc-e093bc9d5c2b;ver=1793afb1-0841-11e6-9ba6-78fa59ab20b7;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/r6xxgvM06920HlmPj_W52g--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-22T041627Z_2_LYNXNPEC3L03L_RTROPTP_3_INDIA-GOLD-DEMAND_original.jpg');" width="100" height="75" alt="Silver rises towards 11-month high, set for third weekly gain" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/gold-silver-slip-recent-highs-005859611.html" class="title " mapleUltParams="pkg=055683ad-9ea9-37c7-8adc-e093bc9d5c2b;ver=1793afb1-0841-11e6-9ba6-78fa59ab20b7;lt=i">
+Silver rises towards 11-month high, set for third weekly gain</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T04:16:27Z">
+1 hour 17 minutes ago</abbr>
+</cite>
+ <p class="description">
+There is also support from the commodities and metals rally," said Dick Poon, general manager at Heraeus Precious Metals in Hong Kong.  HSBC analyst James&nbsp;&hellip; <a href="/news/gold-silver-slip-recent-highs-005859611.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Silver rises towards 11-month high, set for third weekly gain</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/sensex-loses-40-points-early-040603226.html" class="title " mapleUltParams="pkg=6e867adc-179f-3198-922c-05d2edf8656e;ver=d2aed0a1-0840-11e6-89bb-b3d0dc8b9249;lt=i">
+Sensex loses 40 points in early trade</a>
+ <cite>
+<span class="provider">
+IANS</span>
+ - <abbr title="2016-04-22T04:06:03Z">
+1 hour 27 minutes ago</abbr>
+</cite>
+ <p class="description">
+Mumbai, April 22 (IANS) A benchmark index of Indian equities markets, the 30-scrip Sensitive Index (Sensex), on Friday was trading 40.95 points or 0.16&nbsp;&hellip; <a href="/news/sensex-loses-40-points-early-040603226.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Sensex loses 40 points in early trade</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/bankrupt-sunedison-keep-india-expansion-034402175.html" class="title " mapleUltParams="pkg=2942d9dd-4f5d-3b3a-a0cb-36d755930785;ver=892cbf90-083c-11e6-9ffa-c0388f89737b;lt=i">
+Bankrupt SunEdison to keep India expansion plans - Asia head</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T03:44:02Z">
+1 hour 49 minutes ago</abbr>
+</cite>
+ <p class="description">
+U.S. renewable energy company SunEdison Inc expects to finalise within two months partners for around 1.7 gigawatts of planned projects in India, its Asia&nbsp;&hellip; <a href="/news/bankrupt-sunedison-keep-india-expansion-034402175.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Bankrupt SunEdison to keep India expansion plans - Asia head</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/china-adds-3-18-million-034237488.html" class="thumb" mapleUltParams="pkg=fca124c5-48b4-34c2-9c51-ede175e5aeb6;ver=637fd201-083c-11e6-bfcf-1d4a60c56db1;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/E4BQoe7EU4SZ_zKlMH_GoA--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-22T034237Z_1_LYNXNPEC3L080_RTROPTP_3_CHINA-ECONOMY-LOANS_original.jpg');" width="100" height="75" alt="China adds 3.18 million urban jobs in Q1, unemployment rate flat" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/china-adds-3-18-million-034237488.html" class="title " mapleUltParams="pkg=fca124c5-48b4-34c2-9c51-ede175e5aeb6;ver=637fd201-083c-11e6-bfcf-1d4a60c56db1;lt=i">
+China adds 3.18 million urban jobs in Q1, unemployment rate flat</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T03:42:37Z">
+1 hour 50 minutes ago</abbr>
+</cite>
+ <p class="description">
+China added 3.18 million new urban jobs in the first quarter and kept unemployment levels broadly stable, Xinhua said on Friday, citing the social security&nbsp;&hellip; <a href="/news/china-adds-3-18-million-034237488.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+China adds 3.18 million urban jobs in Q1, unemployment rate flat</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/asian-shares-sag-cloudy-u-004409128.html" class="thumb" mapleUltParams="pkg=72c6b295-837f-38c9-8a3f-71495f47700c;ver=28f85eb1-083a-11e6-af3f-1761a9b0891c;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/weJWiHCOJmAk6WIuNlBABQ--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-22T004409Z_1_LYNXNPEC3L039_RTROPTP_3_JAPAN-ECONOMY-BOJ-STOCKS_original.jpg');" width="100" height="75" alt="Asian shares sag after cloudy U.S. earnings outlook" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/asian-shares-sag-cloudy-u-004409128.html" class="title " mapleUltParams="pkg=72c6b295-837f-38c9-8a3f-71495f47700c;ver=28f85eb1-083a-11e6-af3f-1761a9b0891c;lt=i">
+Asian shares sag after cloudy U.S. earnings outlook</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T03:26:58Z">
+2 hours 6 minutes ago</abbr>
+</cite>
+ <p class="description">
+TOKYO/SINGAPORE (Reuters) - Asian shares slid from a 5 1/2-month high on Friday as disappointing earnings from U.S. blue chip companies poured cold water&nbsp;&hellip; <a href="/news/asian-shares-sag-cloudy-u-004409128.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Asian shares sag after cloudy U.S. earnings outlook</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/monetary-authority-singapore-probing-several-022336311.html" class="title " mapleUltParams="pkg=32070b0c-5d06-3eef-b165-5b4f95d4996b;ver=4ae96bd1-0831-11e6-beff-b3f77ca06623;lt=i">
+Monetary Authority of Singapore probing several firms over possible securities act breaches</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T02:23:36Z">
+3 hours ago</abbr>
+</cite>
+ <p class="description">
+Singapore's central bank and white collar crime police have obtained documents and items from several broking firms and trading representatives as part&nbsp;&hellip; <a href="/news/monetary-authority-singapore-probing-several-022336311.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Monetary Authority of Singapore probing several firms over possible securities act breaches</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/microsoft-revenue-profit-misses-estimates-021828667.html" class="title " mapleUltParams="pkg=fe8a87ea-ed2a-34f7-b782-524b10905a77;ver=997b5cf1-0830-11e6-b9ef-c20703ad773c;lt=i">
+Microsoft revenue, profit misses estimates</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T02:18:28Z">
+3 hours ago</abbr>
+</cite>
+ <p class="description">
+Two of Microsoft's three major businesses showed lower operating profits, led by what Microsoft calls its intelligent cloud division, which includes its&nbsp;&hellip; <a href="/news/microsoft-revenue-profit-misses-estimates-021828667.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Microsoft revenue, profit misses estimates</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/u-auto-safety-regulator-looking-013036230.html" class="title " mapleUltParams="pkg=24910ccf-9bdb-3f6a-9cc9-42cb78c4241c;ver=ec754ad0-0829-11e6-bacf-e081277b5816;lt=i">
+U.S. auto safety regulator looking into Mitsubishi fuel economy issue</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T01:30:36Z">
+4 hours ago</abbr>
+</cite>
+ <p class="description">
+The U.S. safety regulator said on Friday it had asked Mitsubishi Motors Corp (7211.T) for information on its vehicles sold in the United States, after&nbsp;&hellip; <a href="/news/u-auto-safety-regulator-looking-013036230.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+U.S. auto safety regulator looking into Mitsubishi fuel economy issue</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/singapore-central-bank-probing-several-011445457.html" class="title " mapleUltParams="pkg=0feaefb2-c5af-3375-b650-7c72fc7fc222;ver=b98affe1-0827-11e6-bddf-8641f1349368;lt=i">
+Singapore central bank probing several firms over possible securities act breaches</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T01:14:45Z">
+4 hours ago</abbr>
+</cite>
+ <p class="description">
+Singapore's central bank and white collar crime police have obtained documents and items from several broking firms and trading representatives as part&nbsp;&hellip; <a href="/news/singapore-central-bank-probing-several-011445457.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Singapore central bank probing several firms over possible securities act breaches</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/intel-microsoft-face-different-challenges-010508708.html" class="title " mapleUltParams="pkg=ae6fe47a-1f85-39c6-9c41-5a575e14fd05;ver=5be36ef1-0826-11e6-baff-46ee783b0c2b;lt=i">
+Intel and Microsoft face different challenges in shifts to cloud</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T01:05:08Z">
+4 hours ago</abbr>
+</cite>
+ <p class="description">
+Financial results from Microsoft Corp (MSFT.O) and Intel Corp (INTC.O) this week brought into sharp relief the challenges the onetime PC partners face&nbsp;&hellip; <a href="/news/intel-microsoft-face-different-challenges-010508708.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Intel and Microsoft face different challenges in shifts to cloud</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/japan-transport-minister-wants-mitsubishi-005624428.html" class="thumb" mapleUltParams="pkg=ff44eb78-5788-35b3-9117-481a0bc5b435;ver=1df27561-0825-11e6-bffd-6978e0c5f7b4;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/MJUuGvQOihjLnDz.sR7VTA--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-22T005624Z_1_LYNXNPEC3L03K_RTROPTP_3_JAPAN-POLITICS_original.jpg');" width="100" height="75" alt="Japan transport minister wants Mitsubishi to consider buying back cars - Kyodo" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/japan-transport-minister-wants-mitsubishi-005624428.html" class="title " mapleUltParams="pkg=ff44eb78-5788-35b3-9117-481a0bc5b435;ver=1df27561-0825-11e6-bffd-6978e0c5f7b4;lt=i">
+Japan transport minister wants Mitsubishi to consider buying back cars - Kyodo</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T00:56:24Z">
+4 hours ago</abbr>
+</cite>
+ <p class="description">
+Japanese Transport Minister Keiichi Ishii said on Friday he wanted Mitsubishi Motors Corp to respond "with integrity" after revelations that it cheated&nbsp;&hellip; <a href="/news/japan-transport-minister-wants-mitsubishi-005624428.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Japan transport minister wants Mitsubishi to consider buying back cars - Kyodo</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/secureworks-raises-112-million-years-004729458.html" class="title " mapleUltParams="pkg=f216b10f-6b00-36ec-8092-826697143fd3;ver=b5cfd400-0824-11e6-8fde-acd80e500a7a;lt=i">
+SecureWorks raises $112 million in year's first technology IPO</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T00:49:56Z">
+4 hours ago</abbr>
+</cite>
+ <p class="description">
+Market jitters and fluctuations in technology stocks have kept investors skittish about the sector.  This time last year, six technology companies had&nbsp;&hellip; <a href="/news/secureworks-raises-112-million-years-004729458.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+SecureWorks raises $112 million in year's first technology IPO</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/aia-group-posts-44-percent-001945557.html" class="title " mapleUltParams="pkg=827f4092-171a-364d-bfd0-65b8f1b57ba6;ver=0cc43621-0820-11e6-babf-91942d5fe606;lt=i">
+AIA Group posts 44 percent rise in new business growth for first quarter</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T00:19:45Z">
+5 hours ago</abbr>
+</cite>
+ <p class="description">
+AIA said the company's value of new business, which measures expected profits from new premiums and is a key yardstick for growth, rose to $578 million&nbsp;&hellip; <a href="/news/aia-group-posts-44-percent-001945557.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+AIA Group posts 44 percent rise in new business growth for first quarter</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/luxury-accessories-brand-mcm-sees-000621080.html" class="title " mapleUltParams="pkg=e9aeed01-32ee-31cb-afb4-af18037828ec;ver=275064c1-081e-11e6-bcdf-dbb273718af6;lt=i">
+Luxury accessories brand MCM sees $2 billion sales in 5 years</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T00:06:21Z">
+5 hours ago</abbr>
+</cite>
+ <p class="description">
+MCM, the German accessories brand owned and run by one of South Korea's best-known female entrepreneurs, Sung-Joo Kim, aims to more than double sales to&nbsp;&hellip; <a href="/news/luxury-accessories-brand-mcm-sees-000621080.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Luxury accessories brand MCM sees $2 billion sales in 5 years</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/exclusive-beijing-auditions-foreign-agencies-000344114.html" class="title " mapleUltParams="pkg=7eac1bad-9f55-3cc3-ba8c-c26298316ec9;ver=c68975f1-081d-11e6-bdf4-edea629087b9;lt=i">
+Exclusive - Beijing auditions foreign agencies to polish China brand</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-22T00:03:44Z">
+5 hours ago</abbr>
+</cite>
+ <p class="description">
+SHANGHAI/BEIJING (Reuters) - Five global public relations firms have made pitches to the Chinese government for a potential new campaign, four sources&nbsp;&hellip; <a href="/news/exclusive-beijing-auditions-foreign-agencies-000344114.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Exclusive - Beijing auditions foreign agencies to polish China brand</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/alphabet-profit-misses-expectations-cost-203210882.html" class="thumb" mapleUltParams="pkg=9f782ebc-9509-332b-aa45-8ac44b6dc6f2;ver=f21f3e71-0818-11e6-9665-1b53743df02a;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/zUFEIv6tvnybCwIxD1cJ9A--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T232752Z_4_LYNXNPEC3K1HO_RTROPTP_3_GOOGLE-RESTRUCTURING_original.jpg');" width="100" height="75" alt="Google&#39;s parent Alphabet misses Wall Street view, hit by strong dollar" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/alphabet-profit-misses-expectations-cost-203210882.html" class="title " mapleUltParams="pkg=9f782ebc-9509-332b-aa45-8ac44b6dc6f2;ver=f21f3e71-0818-11e6-9665-1b53743df02a;lt=i">
+Google's parent Alphabet misses Wall Street view, hit by strong dollar</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T23:27:52Z">
+6 hours ago</abbr>
+</cite>
+ <p class="description">
+Google's parent Alphabet Inc missed Wall Street targets for first-quarter profit and revenue on Thursday, driving shares of the Web search company down&nbsp;&hellip; <a href="/news/alphabet-profit-misses-expectations-cost-203210882.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Google's parent Alphabet misses Wall Street view, hit by strong dollar</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/starbucks-cafe-sales-growth-falls-203035574.html" class="thumb" mapleUltParams="pkg=a935dc8b-7015-3238-bbcd-63e599a0aac4;ver=6d728d81-0818-11e6-adfe-0c33830d334e;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/1tXtPcmdtWxcUMUFfL_jqQ--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T203035Z_2_LYNXNPEC3K1HY_RTROPTP_3_SAFRICA-STARBUCKS_original.jpg');" width="100" height="75" alt="Starbucks cafe sales growth falls short, shares fall" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/starbucks-cafe-sales-growth-falls-203035574.html" class="title " mapleUltParams="pkg=a935dc8b-7015-3238-bbcd-63e599a0aac4;ver=6d728d81-0818-11e6-adfe-0c33830d334e;lt=i">
+Starbucks cafe sales growth falls short, shares fall</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T23:25:18Z">
+6 hours ago</abbr>
+</cite>
+ <p class="description">
+Starbucks is one of the industry's best performers, delivering steady growth by entering new markets and finding diverse ways to boost revenue.  Starbucks,&nbsp;&hellip; <a href="/news/starbucks-cafe-sales-growth-falls-203035574.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Starbucks cafe sales growth falls short, shares fall</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/palm-oil-industry-fumes-indonesia-232131806.html" class="title " mapleUltParams="pkg=7d210982-1a6d-336d-9946-cc145d77e109;ver=d9ed33d1-0817-11e6-be3f-7d938f557f07;lt=i">
+Palm oil industry fumes as Indonesia gets tough on forest fires</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T23:21:31Z">
+6 hours ago</abbr>
+</cite>
+ <p class="description">
+Palm oil firms have slammed Indonesia's move to prohibit the use of new land to boost production, saying President Joko Widodo's latest effort to tackle&nbsp;&hellip; <a href="/news/palm-oil-industry-fumes-indonesia-232131806.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Palm oil industry fumes as Indonesia gets tough on forest fires</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/amd-quarterly-revenue-slumps-19-203003998.html" class="title " mapleUltParams="pkg=e0b938a0-f9af-3134-b908-9271effe564a;ver=2c7c38a0-0816-11e6-bfbf-f883bf115b7b;lt=i">
+AMD flags possible stop to revenue declines, shares soar</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T23:09:13Z">
+6 hours ago</abbr>
+</cite>
+ <p class="description">
+Analysts on average were expecting revenue to fall to $887.8 million, according to Thomson Reuters I/B/E/S.  AMD said on Thursday it signed a $293 million&nbsp;&hellip; <a href="/news/amd-quarterly-revenue-slumps-19-203003998.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+AMD flags possible stop to revenue declines, shares soar</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/visas-quarterly-profit-rises-10-203138638.html" class="thumb" mapleUltParams="pkg=295c8948-5076-3821-8bf5-40582d05bff1;ver=eb09aee1-0813-11e6-aeec-c9b39927d3bb;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/RhLMNSAFqT_WQ5H3Mjdx7A--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T225302Z_1_LYNXNPEC3K1OB_RTROPTP_3_VISA_original.jpg');" width="100" height="75" alt="Visa lowers revenue forecast, amends Visa Europe deal" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/visas-quarterly-profit-rises-10-203138638.html" class="title " mapleUltParams="pkg=295c8948-5076-3821-8bf5-40582d05bff1;ver=eb09aee1-0813-11e6-aeec-c9b39927d3bb;lt=i">
+Visa lowers revenue forecast, amends Visa Europe deal</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T22:53:02Z">
+6 hours ago</abbr>
+</cite>
+ <p class="description">
+Shares of the company, which is amending its deal to buy Visa Europe, fell 4.7 percent to $77 in after-market trading on Thursday.  Chief Financial Officer&nbsp;&hellip; <a href="/news/visas-quarterly-profit-rises-10-203138638.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Visa lowers revenue forecast, amends Visa Europe deal</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/secureworks-raises-120-million-years-222241028.html" class="title " mapleUltParams="pkg=b0b1c7df-7313-37ce-a0f3-a3170c527e97;ver=12fd9bb1-0813-11e6-ae7d-782aaaae9f8d;lt=i">
+SecureWorks raises $120 million in year's first technology IPO</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T22:47:09Z">
+6 hours ago</abbr>
+</cite>
+ <p class="description">
+Market jitters and fluctuations in technology stocks have kept investors skittish about the sector.  This time last year, six technology companies had&nbsp;&hellip; <a href="/news/secureworks-raises-120-million-years-222241028.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+SecureWorks raises $120 million in year's first technology IPO</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/schlumberger-profit-nearly-halves-oil-202934077.html" class="thumb" mapleUltParams="pkg=8a3ccc73-9cce-3a06-a359-006d625bad32;ver=79cd0d51-080c-11e6-b39f-54d555b5390b;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/JzkhZgF5Mj5rVbh4bM5D_g--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T202934Z_1_LYNXNPEC3K1I5_RTROPTP_3_SCHLUMBERGER-NV-RESULTS_original.jpg');" width="100" height="75" alt="Schlumberger profit halves as clients&#39; spending cuts weigh" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/schlumberger-profit-nearly-halves-oil-202934077.html" class="title " mapleUltParams="pkg=8a3ccc73-9cce-3a06-a359-006d625bad32;ver=79cd0d51-080c-11e6-b39f-54d555b5390b;lt=i">
+Schlumberger profit halves as clients' spending cuts weigh</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T21:59:36Z">
+7 hours ago</abbr>
+</cite>
+ <p class="description">
+The world's No.1 oilfield services provider said its costs to do business in North America exceeded the revenue it earned there in the quarter, the first&nbsp;&hellip; <a href="/news/schlumberger-profit-nearly-halves-oil-202934077.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Schlumberger profit halves as clients' spending cuts weigh</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/u-dealers-hope-volkswagens-steps-215615382.html" class="thumb" mapleUltParams="pkg=f45a8847-e958-3d48-96e2-1e8de43a9685;ver=f0ad71e0-080b-11e6-ad52-372d5c1b7f9e;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/fozPCVRIK5V3pxm6C8sTYw--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T215615Z_1_LYNXNPEC3K1NI_RTROPTP_3_VOLKSWAGEN-EMISSIONS-BONUSES-GERMANY_original.jpg');" width="100" height="75" alt="U.S. dealers hope Volkswagen&#39;s steps will get owners back on board" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/u-dealers-hope-volkswagens-steps-215615382.html" class="title " mapleUltParams="pkg=f45a8847-e958-3d48-96e2-1e8de43a9685;ver=f0ad71e0-080b-11e6-ad52-372d5c1b7f9e;lt=i">
+U.S. dealers hope Volkswagen's steps will get owners back on board</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T21:56:15Z">
+7 hours ago</abbr>
+</cite>
+ <p class="description">
+SAN FRANCISCO/DETROIT (Reuters) - Volkswagen dealers in the United States said they were cautiously optimistic consumers will be drawn back into the fold&nbsp;&hellip; <a href="/news/u-dealers-hope-volkswagens-steps-215615382.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+U.S. dealers hope Volkswagen's steps will get owners back on board</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/north-america-europe-lift-gm-114649140.html" class="thumb" mapleUltParams="pkg=f818b143-f2b9-33a1-bd10-eb5568f7d25e;ver=d17fcb81-0809-11e6-93a8-722134bbff12;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/JZ0t9Fxrwm.WbOw_QzYivQ--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T114649Z_1_LYNXNPEC3K0PE_RTROPTP_3_AUTOS-GM_original.jpg');" width="100" height="75" alt="GM earnings beat estimates on strength in North America" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/north-america-europe-lift-gm-114649140.html" class="title " mapleUltParams="pkg=f818b143-f2b9-33a1-bd10-eb5568f7d25e;ver=d17fcb81-0809-11e6-93a8-722134bbff12;lt=i">
+GM earnings beat estimates on strength in North America</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T21:40:36Z">
+7 hours ago</abbr>
+</cite>
+ <p class="description">
+Demand for big trucks in North America and an improved performance in Europe propelled General Motors Co's (GM.N) quarterly results well past investors'&nbsp;&hellip; <a href="/news/north-america-europe-lift-gm-114649140.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+GM earnings beat estimates on strength in North America</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/asian-shares-near-five-half-010622074.html" class="thumb" mapleUltParams="pkg=f54814cb-be75-320b-8974-cc269e2c931c;ver=973b42b1-0809-11e6-adfe-48b0d699b0ba;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/bLl2W7MzVYMJny_vwgErHA--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T052246Z_1_LYNXNPEC3K090_RTROPTP_3_GLOBAL-MARKETS_original.jpg');" width="100" height="75" alt="Oil falls on output concern; U.S. stocks down" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/asian-shares-near-five-half-010622074.html" class="title " mapleUltParams="pkg=f54814cb-be75-320b-8974-cc269e2c931c;ver=973b42b1-0809-11e6-adfe-48b0d699b0ba;lt=i">
+Oil falls on output concern; U.S. stocks down</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T21:39:10Z">
+7 hours ago</abbr>
+</cite>
+ <p class="description">
+Oil prices slipped on Thursday as producers hinted at more output, while U.S. stocks had their first loss in four sessions after a mixed bag of earnings&nbsp;&hellip; <a href="/news/asian-shares-near-five-half-010622074.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Oil falls on output concern; U.S. stocks down</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/sunedison-files-chapter-11-bankruptcy-140437935.html" class="thumb" mapleUltParams="pkg=ecf7a7a0-6930-3a89-9818-bfa6a467090c;ver=76de5931-0809-11e6-badf-de2c500e286e;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/3Li8oi6eCxyGqUSR_Mwuwg--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T163347Z_3_LYNXNPEC3K0YU_RTROPTP_3_SUNEDISON-INC-PROJECTS_original.jpg');" width="100" height="75" alt="Solar developer SunEdison in bankruptcy as aggressive growth plan unravels" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/sunedison-files-chapter-11-bankruptcy-140437935.html" class="title " mapleUltParams="pkg=ecf7a7a0-6930-3a89-9818-bfa6a467090c;ver=76de5931-0809-11e6-badf-de2c500e286e;lt=i">
+Solar developer SunEdison in bankruptcy as aggressive growth plan unravels</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T21:38:08Z">
+7 hours ago</abbr>
+</cite>
+ <p class="description">
+In its bankruptcy filing, the company said it had assets of $20.7 billion and liabilities of $16.1 billion as of Sept. 30.  SunEdison's two publicly traded&nbsp;&hellip; <a href="/news/sunedison-files-chapter-11-bankruptcy-140437935.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Solar developer SunEdison in bankruptcy as aggressive growth plan unravels</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/vw-forges-u-deal-arising-213636579.html" class="thumb" mapleUltParams="pkg=677ccada-2acd-3464-b4c5-efa5cc3ca2bd;ver=51bf2cb1-0809-11e6-8907-88e468a625d0;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/pa0qLhrC8ETHfL1C.7Ap_Q--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T213636Z_1_LYNXNPEC3K1MO_RTROPTP_3_VOLKSWAGEN-EMISSIONS_original.jpg');" width="100" height="75" alt="VW forges U.S. deal arising from diesel emissions scandal" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/vw-forges-u-deal-arising-213636579.html" class="title " mapleUltParams="pkg=677ccada-2acd-3464-b4c5-efa5cc3ca2bd;ver=51bf2cb1-0809-11e6-8907-88e468a625d0;lt=i">
+VW forges U.S. deal arising from diesel emissions scandal</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T21:36:36Z">
+7 hours ago</abbr>
+</cite>
+ <p class="description">
+SAN FRANCISCO/WASHINGTON (Reuters) - Volkswagen AG, driving to move beyond a scandal that has disrupted its global business and sullied its reputation,&nbsp;&hellip; <a href="/news/vw-forges-u-deal-arising-213636579.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+VW forges U.S. deal arising from diesel emissions scandal</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/european-drivers-bristle-vw-reaches-212104445.html" class="title " mapleUltParams="pkg=c99b186f-e31d-3689-bc36-aa382c80cf04;ver=0d720bb1-0807-11e6-bffd-d779008cd820;lt=i">
+European drivers bristle as VW reaches U.S. diesel deal</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T21:21:04Z">
+8 hours ago</abbr>
+</cite>
+ <p class="description">
+FRANKFURT/LONDON (Reuters) - European owners of Volkswagen (VOWG_p.DE) cars read the details of a deal to compensate U.S. drivers for the diesel emissions&nbsp;&hellip; <a href="/news/european-drivers-bristle-vw-reaches-212104445.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+European drivers bristle as VW reaches U.S. diesel deal</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/microsoft-soars-cloud-pc-partner-211550408.html" class="title " mapleUltParams="pkg=ff5da1ea-1016-33b2-9367-0f95e0a9ad2e;ver=5fe83be1-0806-11e6-ae78-dd9dc213873c;lt=i">
+As Microsoft soars on cloud, PC partner Intel seeks lift off</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T21:15:50Z">
+8 hours ago</abbr>
+</cite>
+ <p class="description">
+Microsoft Corp (MSFT.O) and Intel Corp's financial results this week brought into sharp relief the onetime PC partners' attempts to gear up for cloud computing,&nbsp;&hellip; <a href="/news/microsoft-soars-cloud-pc-partner-211550408.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+As Microsoft soars on cloud, PC partner Intel seeks lift off</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/crude-oil-prices-fall-major-010738402.html" class="thumb" mapleUltParams="pkg=4e9d8fef-057c-32e4-b398-51983e3bec3b;ver=d9c65011-0805-11e6-bbaf-8b81ff0b7cc9;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/J7HK56Ro.hXE3TtjUEnltQ--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T101146Z_2_LYNXNPEC3K02U_RTROPTP_3_OIL-MEETING-PRICES_original.jpg');" width="100" height="75" alt="Oil down 3 percent; producers hint of more output add to glut worry" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/crude-oil-prices-fall-major-010738402.html" class="title " mapleUltParams="pkg=4e9d8fef-057c-32e4-b398-51983e3bec3b;ver=d9c65011-0805-11e6-bbaf-8b81ff0b7cc9;lt=i">
+Oil down 3 percent; producers hint of more output add to glut worry</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T21:12:29Z">
+8 hours ago</abbr>
+</cite>
+ <p class="description">
+NEW YORK/LONDON (Reuters) - Oil prices fell 3 percent on Thursday, pausing after a two-day rally, after producers from Russia to Saudi Arabia and Iran&nbsp;&hellip; <a href="/news/crude-oil-prices-fall-major-010738402.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Oil down 3 percent; producers hint of more output add to glut worry</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/wall-street-set-muted-open-131226550.html" class="thumb" mapleUltParams="pkg=4183db12-b90f-3017-83ed-a6a5c1501f19;ver=92b25c01-0805-11e6-bffe-e3795427a604;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/6G7bkmctO2ubgP6RmBfYhQ--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T131226Z_1_LYNXNPEC3K0VB_RTROPTP_3_USA-STOCKS_original.jpg');" width="100" height="75" alt="Wall Street cedes ground after mixed bag of earnings" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/wall-street-set-muted-open-131226550.html" class="title " mapleUltParams="pkg=4183db12-b90f-3017-83ed-a6a5c1501f19;ver=92b25c01-0805-11e6-bffe-e3795427a604;lt=i">
+Wall Street cedes ground after mixed bag of earnings</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T21:10:15Z">
+8 hours ago</abbr>
+</cite>
+ <p class="description">
+Verizon's shares (VZ.N) dropped 3.32 percent after the telecom said a strike by its wireline workers would likely hurt earnings this quarter.  Nine of&nbsp;&hellip; <a href="/news/wall-street-set-muted-open-131226550.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Wall Street cedes ground after mixed bag of earnings</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/norfolk-southern-profit-rises-cost-202715056.html" class="title " mapleUltParams="pkg=624e8df4-d4b5-36b9-9a05-2d0a4a7873ce;ver=16f14c71-0805-11e6-bf98-9d71581190a6;lt=i">
+Norfolk Southern profit beats, cost cuts offset falling freight</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T21:06:37Z">
+8 hours ago</abbr>
+</cite>
+ <p class="description">
+Norfolk Southern Corp (NSC.N) on Thursday reported a quarterly profit that was lifted by cost cutting and measures taken to streamline operations, shaking&nbsp;&hellip; <a href="/news/norfolk-southern-profit-rises-cost-202715056.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Norfolk Southern profit beats, cost cuts offset falling freight</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/legal-hurdles-remain-volkswagen-u-205907421.html" class="thumb" mapleUltParams="pkg=0e7ab6ad-1fe4-35d6-9442-48c7f50cd95b;ver=fc2a8d31-0803-11e6-bfe7-4849bd3af7a0;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/0.dbZaxLg.zhIaqcdCKrJA--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T205907Z_1_LYNXNPEC3K1JK_RTROPTP_3_VOLKSWAGEN-EMISSIONS-PROVISIONS_original.jpg');" width="100" height="75" alt="Legal hurdles remain for Volkswagen in U.S. clean-diesel cases" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/legal-hurdles-remain-volkswagen-u-205907421.html" class="title " mapleUltParams="pkg=0e7ab6ad-1fe4-35d6-9442-48c7f50cd95b;ver=fc2a8d31-0803-11e6-bfe7-4849bd3af7a0;lt=i">
+Legal hurdles remain for Volkswagen in U.S. clean-diesel cases</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T20:59:07Z">
+8 hours ago</abbr>
+</cite>
+ <p class="description">
+Volkswagen AG faces further legal fights on several fronts in the United States despite its announcement on Thursday it reached a preliminary deal to resolve&nbsp;&hellip; <a href="/news/legal-hurdles-remain-volkswagen-u-205907421.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Legal hurdles remain for Volkswagen in U.S. clean-diesel cases</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/sunedison-seeks-examiner-probe-recent-205211758.html" class="title " mapleUltParams="pkg=eff27fad-754b-3cf4-aa76-9812f10309de;ver=059b3280-0803-11e6-bdde-8ace6e122fb4;lt=i">
+SunEdison seeks examiner to probe recent transactions</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T20:52:11Z">
+8 hours ago</abbr>
+</cite>
+ <p class="description">
+The company cited in the request a subpoena it received from the U.S. Department of Justice related to financing activity, an investigation by the U.S.&nbsp;&hellip; <a href="/news/sunedison-seeks-examiner-probe-recent-205211758.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+SunEdison seeks examiner to probe recent transactions</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/global-cross-border-bank-activity-183300279.html" class="title " mapleUltParams="pkg=0636a201-e40a-3002-bf51-850c6fae429c;ver=8d6fee80-07ef-11e6-b26f-a587486611d4;lt=i">
+Global cross-border bank activity falls further in fourth quarter - BIS</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T18:33:00Z">
+11 hours ago</abbr>
+</cite>
+ <p class="description">
+The quarter brought the third consecutive decline in cross-border bank credit, which saw its outstanding stock decline to $26.4 trillion as of the end&nbsp;&hellip; <a href="/news/global-cross-border-bank-activity-183300279.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Global cross-border bank activity falls further in fourth quarter - BIS</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/gold-retains-losses-silver-below-010058695.html" class="thumb" mapleUltParams="pkg=8f3ff315-8ecb-363e-bb54-7dcbbc2362de;ver=40af3061-07ef-11e6-b5f6-efa8a39d5b52;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/FNR9uaQHpqzAh8F68WRg7Q--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T042400Z_2_LYNXNPEC3K027_RTROPTP_3_INDIA-GOLD-PRICES_original.jpg');" width="100" height="75" alt="Silver slips from 11-month peak, gold off five-week high as dollar bounces" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/gold-retains-losses-silver-below-010058695.html" class="title " mapleUltParams="pkg=8f3ff315-8ecb-363e-bb54-7dcbbc2362de;ver=40af3061-07ef-11e6-b5f6-efa8a39d5b52;lt=i">
+Silver slips from 11-month peak, gold off five-week high as dollar bounces</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T18:28:02Z">
+11 hours ago</abbr>
+</cite>
+ <p class="description">
+NEW YORK/LONDON (Reuters) - Silver slipped sharply from an 11-month peak on Thursday as a rebound in the dollar prompted traders to cash in earlier gains,&nbsp;&hellip; <a href="/news/gold-retains-losses-silver-below-010058695.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Silver slips from 11-month peak, gold off five-week high as dollar bounces</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/viacom-shares-leap-accord-renew-154751651.html" class="thumb" mapleUltParams="pkg=65a28a5c-465a-3ab4-a207-a288fd90e6ef;ver=bba05f11-07ea-11e6-a9fb-6623023b5594;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/E.zRUO9FbEtCFMJ8kshzBA--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T154751Z_1_LYNXNPEC3K15T_RTROPTP_3_VIACOM-DISH-NETWORK_original.jpg');" width="100" height="75" alt="Viacom shares soar after deal to renew Dish contract" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/viacom-shares-leap-accord-renew-154751651.html" class="title " mapleUltParams="pkg=65a28a5c-465a-3ab4-a207-a288fd90e6ef;ver=bba05f11-07ea-11e6-a9fb-6623023b5594;lt=i">
+Viacom shares soar after deal to renew Dish contract</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T17:58:02Z">
+11 hours ago</abbr>
+</cite>
+ <p class="description">
+Viacom Inc said on Thursday it has renewed a multiyear distribution contract with satellite TV provider Dish Network Corp, lifting the media company's&nbsp;&hellip; <a href="/news/viacom-shares-leap-accord-renew-154751651.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Viacom shares soar after deal to renew Dish contract</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/renault-says-q1-revenue-jumps-161514381.html" class="thumb" mapleUltParams="pkg=ef2a1a93-49c9-3cc6-8dff-66b839cdf247;ver=98dc5d71-07e6-11e6-8fff-271d9f06e0ee;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/s8hpdPfU2s5lywSHL6WY6w--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T161514Z_1_LYNXNPEC3K175_RTROPTP_3_FRANCE-RENAULT_original.jpg');" width="100" height="75" alt="Renault&#39;s Q1 revenue up 11.7 percent on strong European demand" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/renault-says-q1-revenue-jumps-161514381.html" class="title " mapleUltParams="pkg=ef2a1a93-49c9-3cc6-8dff-66b839cdf247;ver=98dc5d71-07e6-11e6-8fff-271d9f06e0ee;lt=i">
+Renault's Q1 revenue up 11.7 percent on strong European demand</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T17:25:57Z">
+12 hours ago</abbr>
+</cite>
+ <p class="description">
+Renault's revenue rose 11.7 percent in the first three months of the year boosted by demand for new model ranges in Europe, the French carmaker said on&nbsp;&hellip; <a href="/news/renault-says-q1-revenue-jumps-161514381.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Renault's Q1 revenue up 11.7 percent on strong European demand</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/britain-says-could-25-percent-122034219.html" class="thumb" mapleUltParams="pkg=25ef6050-f3c1-33c1-929c-d1374f9b75e9;ver=3ee45c70-07e4-11e6-afed-2237f11f43fc;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/cz5G8MhDHPjQtBTi_a6PfA--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T122034Z_1_LYNXNPEC3K0RP_RTROPTP_3_TATA-STEEL-BRITAIN_original.jpg');" width="100" height="75" alt="UK ready to take stake in Tata&#39;s steel plants in rescue deal" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/britain-says-could-25-percent-122034219.html" class="title " mapleUltParams="pkg=25ef6050-f3c1-33c1-929c-d1374f9b75e9;ver=3ee45c70-07e4-11e6-afed-2237f11f43fc;lt=i">
+UK ready to take stake in Tata's steel plants in rescue deal</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T17:11:55Z">
+12 hours ago</abbr>
+</cite>
+ <p class="description">
+Britain could part-nationalise Tata's UK steel plants by taking a 25 percent equity stake, as part of a support package worth hundreds of millions of pounds&nbsp;&hellip; <a href="/news/britain-says-could-25-percent-122034219.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+UK ready to take stake in Tata's steel plants in rescue deal</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/oil-surge-drives-world-stocks-081853752.html" class="thumb" mapleUltParams="pkg=86b4d9cc-d580-3b91-bedb-a0bb298dd962;ver=aff0f5b1-07dd-11e6-bede-15447526d178;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/CRnFhqxkOl_sX2V06gxEUA--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T081853Z_1_LYNXNPEC3K0EU_RTROPTP_3_CHINA-STOCKS-CLOSE_original.jpg');" width="100" height="75" alt="Euro slips after ECB meeting, oil down, stocks steady" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/oil-surge-drives-world-stocks-081853752.html" class="title " mapleUltParams="pkg=86b4d9cc-d580-3b91-bedb-a0bb298dd962;ver=aff0f5b1-07dd-11e6-bede-15447526d178;lt=i">
+Euro slips after ECB meeting, oil down, stocks steady</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T16:24:46Z">
+13 hours ago</abbr>
+</cite>
+ <p class="description">
+The euro turned lower against the U.S. dollar on Thursday after ECB president Draghi pledged to keep monetary policy loose,  while oil prices slipped on&nbsp;&hellip; <a href="/news/oil-surge-drives-world-stocks-081853752.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Euro slips after ECB meeting, oil down, stocks steady</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/payment-deadline-looms-over-malaysian-114023167.html" class="thumb" mapleUltParams="pkg=8e75ebc9-2cc5-311d-bc95-2eac53594a0c;ver=48f37ac1-07da-11e6-b1e3-0fde0e23e98d;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/jQN84HKOfbfhd5FcuDOYNw--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T114023Z_1_LYNXNPEC3K0OY_RTROPTP_3_MALAYSIA-1MDB_original.jpg');" width="100" height="75" alt="Payment deadline looms over Malaysian fund amid IPIC row" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/payment-deadline-looms-over-malaysian-114023167.html" class="title " mapleUltParams="pkg=8e75ebc9-2cc5-311d-bc95-2eac53594a0c;ver=48f37ac1-07da-11e6-b1e3-0fde0e23e98d;lt=i">
+Payment deadline looms over Malaysian fund amid IPIC row</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T15:59:53Z">
+13 hours ago</abbr>
+</cite>
+ <p class="description">
+The grace period for the $50 million coupon payment due on a 1Malaysia Development Bhd (1MDB) bond expires at the weekend with 1MDB saying Abu Dhabi sovereign&nbsp;&hellip; <a href="/news/payment-deadline-looms-over-malaysian-114023167.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Payment deadline looms over Malaysian fund amid IPIC row</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/india-become-10-tn-economy-140603794.html" class="title " mapleUltParams="pkg=6bde87b9-72ea-3701-bd3f-bb8cf3632408;ver=83075471-07cb-11e6-bdd4-7b12d93e0bc8;lt=i">
+India can become $10 tn economy with no poverty: Kant</a>
+ <cite>
+<span class="provider">
+IANS</span>
+ - <abbr title="2016-04-21T14:06:03Z">
+15 hours ago</abbr>
+</cite>
+ <p class="description">
+New Delhi, April 21 (IANS) Niti Aayog Chief Executive Amitabh Kant on Thursday presented to Prime Minister Narendra Modi an eight-point action plan that&nbsp;&hellip; <a href="/news/india-become-10-tn-economy-140603794.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+India can become $10 tn economy with no poverty: Kant</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/mitsubishi-motors-admits-manipulating-fuel-101058781.html" class="thumb" mapleUltParams="pkg=6ff0b650-a776-363d-ad82-4958a808f91f;ver=0f2eae71-07c8-11e6-b2ae-2b82319fc15e;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s1.yimg.com/bt/api/res/1.2/2sYQkun9KHRnRyh5_q5TjQ--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-20T094905Z_2_LYNXNPEC3J0I5_RTROPTP_3_MITSUBISHIMOTORS-REGULATIONS_original.jpg');" width="100" height="75" alt="Mitsubishi Motors admits manipulating fuel economy data, shares tumble" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/mitsubishi-motors-admits-manipulating-fuel-101058781.html" class="title " mapleUltParams="pkg=6ff0b650-a776-363d-ad82-4958a808f91f;ver=0f2eae71-07c8-11e6-b2ae-2b82319fc15e;lt=i">
+Mitsubishi Motors admits manipulating fuel economy data, shares tumble</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T13:49:53Z">
+15 hours ago</abbr>
+</cite>
+ <p class="description">
+Mitsubishi Motors Corp admitted to manipulating test data to overstate the fuel economy of 625,000 cars sold in Japan, knocking its shares down more than&nbsp;&hellip; <a href="/news/mitsubishi-motors-admits-manipulating-fuel-101058781.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Mitsubishi Motors admits manipulating fuel economy data, shares tumble</span>
+</a>
+</p>
+</div>
+</li>
+<li class="no-thumb">
+<div class="txt">
+<a href="/news/profit-booking-caution-ahead-ecb-132405642.html" class="title " mapleUltParams="pkg=327256c7-725c-3769-8e32-32498886cb57;ver=a2ac2041-07c5-11e6-a2bb-ad44bb59f007;lt=i">
+Profit booking, caution ahead of ECB meet depress markets</a>
+ <cite>
+<span class="provider">
+IANS</span>
+ - <abbr title="2016-04-21T13:24:05Z">
+16 hours ago</abbr>
+</cite>
+ <p class="description">
+Mumbai, April 21 (IANS) Profit booking, along with unwinding of long positions ahead of key quarterly results, depressed the Indian equity markets on Thursday.&nbsp;&hellip; <a href="/news/profit-booking-caution-ahead-ecb-132405642.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Profit booking, caution ahead of ECB meet depress markets</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/chinas-stock-regulator-reins-risqu-115246114.html" class="thumb" mapleUltParams="pkg=d40056ce-7c55-3ce3-80a5-e48b030099b3;ver=412dbdc1-07c4-11e6-9b6d-b94c7182aa78;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/sYw5itsMm1DNKP3r.itBew--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T115246Z_1_LYNXNPEC3K0PT_RTROPTP_3_CHINA-STOCKS-CLOSE_original.jpg');" width="100" height="75" alt="China&#39;s stock regulator reins in risqué cyber-celebrity analysts" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/chinas-stock-regulator-reins-risqu-115246114.html" class="title " mapleUltParams="pkg=d40056ce-7c55-3ce3-80a5-e48b030099b3;ver=412dbdc1-07c4-11e6-9b6d-b94c7182aa78;lt=i">
+China's stock regulator reins in risqué cyber-celebrity analysts</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T13:22:36Z">
+16 hours ago</abbr>
+</cite>
+ <p class="description">
+China's securities regulator has ordered brokerages to restrain their staff's online activity, two sources with direct knowledge told Reuters on Thursday,&nbsp;&hellip; <a href="/news/chinas-stock-regulator-reins-risqu-115246114.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+China's stock regulator reins in risqué cyber-celebrity analysts</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/vodafone-invites-banks-pitch-india-110227276.html" class="thumb" mapleUltParams="pkg=d3d78d8b-b6b8-379a-a5bf-7f4906f1ddcb;ver=19366b01-07c4-11e6-b9ff-017684bb30b7;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/4s_nT4JHRqcBVo8_XJg51g--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T124750Z_3_LYNXNPEC3K0MO_RTROPTP_3_VODAFONE-GROUP-INDIA-IPO_original.jpg');" width="100" height="75" alt="Vodafone invites banks to pitch for $2-2.5 billion Indian IPO - sources" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/vodafone-invites-banks-pitch-india-110227276.html" class="title " mapleUltParams="pkg=d3d78d8b-b6b8-379a-a5bf-7f4906f1ddcb;ver=19366b01-07c4-11e6-b9ff-017684bb30b7;lt=i">
+Vodafone invites banks to pitch for $2-2.5 billion Indian IPO - sources</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T13:21:39Z">
+16 hours ago</abbr>
+</cite>
+ <p class="description">
+Vodafone Group has set the ball rolling for the long-awaited initial public offer of shares in its Indian subsidiary by inviting banks, including Citigroup,&nbsp;&hellip; <a href="/news/vodafone-invites-banks-pitch-india-110227276.html" class="more" mapleUltParams="lt=s">
+More&nbsp;» <span class="hidden">
+Vodafone invites banks to pitch for $2-2.5 billion Indian IPO - sources</span>
+</a>
+</p>
+</div>
+</li>
+<li>
+<a href="/news/mitsubishi-motors-shares-slump-record-105042004.html" class="thumb" mapleUltParams="pkg=013999f4-5412-3345-b64a-28548be7fb6f;ver=d9e7da11-07be-11e6-bdad-f879c485a3a2;lt=i">
+<img src="https://s1.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" style="background-image:url('https://s.yimg.com/bt/api/res/1.2/5eyNQQgRLXY0hk7QcQfwBw--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NzU7cT03NTt3PTEwMA--/http://globalfinance.zenfs.com/images/IN_AHTTP_REUTERS_WRAPPER_BUS_NEW/2016-04-21T105042Z_1_LYNXNPEC3K0LX_RTROPTP_3_MITSUBISHIMOTORS-REGULATIONS_original.jpg');" width="100" height="75" alt="Mitsubishi Motors shares dive, Japan officials raid facility" title="" class="lzbg">
+</a>
+<div class="txt">
+<a href="/news/mitsubishi-motors-shares-slump-record-105042004.html" class="title " mapleUltParams="pkg=013999f4-5412-3345-b64a-28548be7fb6f;ver=d9e7da11-07be-11e6-bdad-f879c485a3a2;lt=i">
+Mitsubishi Motors shares dive, Japan officials raid facility</a>
+ <cite>
+<span class="provider">
+Reuters</span>
+ - <abbr title="2016-04-21T12:43:57Z">
+16 hours ago</abbr>
+</cite>
+ <p class="description">
+Japa
